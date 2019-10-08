@@ -1,0 +1,47 @@
+---
+title: Awards and Skills
+subtitle:
+layout: default
+modal-id: 13
+date: 2014-07-6
+img: roundicons.png
+thumbnail: roundicons-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description:
+
+---
+
+<br>
+<br>
+<div style="text-align: justify">
+<br>
+<br>
+
+<b> Honours and AWards :</b>
+<br>
+<br>
+ <ul>
+  <li>Awarded Engineering Excellence Award, ANSYS Hall of Fame 2017, ANSYS Inc.</li>
+  <li>Awarded $3500 as Winner of ASME Innovative Design Simulation Challenge 2016</li>
+  <li>Awarded $1500 as Winner of IET India Scholarship 2016</li>
+  <li>Finalist, KPIT SPARKLE India Innovation contest 2016</li>
+  <li>Awarded $300 as Regional Runner-up of IET India Scholarship 2015</li>
+</ul> 
+<br>
+<br>
+<b>Skills :</b>
+<br>
+<br>
+ <ul>
+  <li>CAD - CATIA V5, Solidworks, Rhino</li>
+  <li>Analysis - Abaqus (Static Structural, Thermal, Modal, Contact, Anisotropic), Hypermesh, Ansys, Moldex3D, MSC Digimat</li>
+  <li>Programming Languages - C, Python, MATLAB</li>
+  <li>Processes - CNC Milling, Injection & Compression Molding, Coordinate Measuring Machine (CMM), Robotics, Waterjet</li>
+  <li>Design - DFM, SPC, DFA, DOE, GD&T, Root Cause Analysis</li>
+</ul> 
+
+
+</div>

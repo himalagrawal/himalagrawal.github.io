@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Himal Agrawal</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 08 Oct 2019 15:30:41 -0400</pubDate>
+    <lastBuildDate>Tue, 08 Oct 2019 15:30:41 -0400</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Leaf Spring</title>
+        <description>&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align: justify&quot;&gt;
+
+&lt;b&gt;Abstract :&lt;/b&gt; Leaf springs are a part of the suspension system attached between the axle and the chassis
+of the vehicle to support weight and provide shock absorbing capacity of the vehicle. For more than half a century the leaf springs are being made of steel which increases the weight of the vehicle and is prone to rusting and failure. The current study explores the feasibility of composite leaf spring to reduce weight by designing, manufacturing and testing the composite leaf spring for the required load cases.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt; Brief Summary :&lt;/b&gt;
+&lt;ul&gt;
+  &lt;li&gt;Developed testing fixtures in house using lathe, CNC milling and waterjet for prototype hybrid leaf spring&lt;/li&gt;
+  &lt;li&gt;Developed composite layup tool using 5-axis CNC and manufactured glass fiber epoxy composite leaf using autoclave &lt;/li&gt;
+  &lt;li&gt;Performed fatigue testing for different load cases and analysed experumental data from load cell and strain gauges&lt;/li&gt;
+  &lt;li&gt;The composite leaf spring was lighter by 35% and withstood 1 million cycles without failure&lt;/li&gt;
+  &lt;li&gt;Designed tests for small scale fatigue testing as a function of aspect ratio of flexure samples &lt;/li&gt;
+  &lt;li&gt;Explored the fatigue properties of composite beams as a function of aspect ration to characterize shear and bending failure&lt;/li&gt;
+
+&lt;/ul&gt;
+
+&lt;br /&gt;
+&lt;br /&gt;
+
+&lt;b&gt;Project Images:&lt;/b&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-md-6 col-md-offset-3&quot;&gt;
+
+&lt;img src=&quot;img/portfolio/leafspring/1.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Thesis Image 1&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 1. &lt;/b&gt;CAD design of fixtures for testing in static and fatigue conditions&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/leafspring/2.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Thesis Image 2&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 2. &lt;/b&gt;Manufactured fixtures for testing using CNC machining, waterjet, lathe&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/leafspring/3.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Thesis Image 3&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 3. &lt;/b&gt;Laser scanning using FARO arm of metal leaf spring to determine geometry&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/leafspring/4.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Thesis Image 4&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 4. &lt;/b&gt;Manufactured mold in 5-axis CNC using laser scanned geometry for composite layup&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/leafspring/5.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Thesis Image 5&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 5. &lt;/b&gt;Trimming of cured composite leaf to required dimensions using wooden trim tool on 5-axis CNC&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/leafspring/6.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Thesis Image 6&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 6. &lt;/b&gt;Layup of stepped flat leaf with silicon dams around to prevent resin flow&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/leafspring/7.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Thesis Image 7&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 7. &lt;/b&gt;Manufactured and assembled hybrid composite leaf spring&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/leafspring/8.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Thesis Image 8&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 8. &lt;/b&gt;Testing apparatus for static and fatigue load cases&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/leafspring/9.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Thesis Image 9&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 9. &lt;/b&gt;Extreme deflection of composite leaf spring to check strength&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/leafspring/10.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Thesis Image 10&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 10. &lt;/b&gt;Experimental attachment of strain gauges to composite leaf spring&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/leafspring/11.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Thesis Image 11&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 11. &lt;/b&gt;Small scale flexure testing as function of aspect ratio to speed up testing&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/leafspring/12.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Thesis Image 12&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 12. &lt;/b&gt;Static flexure failure locations for unidirectional samples with aspect ratio 10 &lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/leafspring/13.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Thesis Image 13&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 13. &lt;/b&gt;Stiffness as function of fatigue cycles for unidirectional samples with aspect ratio 10&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/leafspring/14.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Thesis Image 14&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 14. &lt;/b&gt;Flexure fatigue locations for unidirectional samples with aspect ratio 10 indicating shear failure from stress concentration&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/leafspring/15.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Thesis Image 15&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 15. &lt;/b&gt;Static flexure failure of samples for unidirectional samples with aspect ratio 30&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/leafspring/16.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Thesis Image 16&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 16. &lt;/b&gt;Stiffness vs fatigue cycles for unidirectional samples with aspect ratio 30 - Almost constant, no catastrophic failure&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Fri, 18 Jul 2014 00:00:00 -0400</pubDate>
+        <link>/web%20development/2014/07/18/leafspring/</link>
+        <guid isPermaLink="true">/web%20development/2014/07/18/leafspring/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>John Deere</title>
+        <description>&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align: justify&quot;&gt;
+
+
+&lt;b&gt;Abstract :&lt;/b&gt; Feasibility of polymer composite material pulley viable for John Deere high power belt drive in tractors was studied. The increase in maintenance difficulties for cast iron pulley being heavy led to the decision to design lighter glass giber reinforced injection molded pulley offering the same stiffness, strength, fatigue properties and resistance to creep. Structural simulations were done from the given loading conditions and the geometry was redesigned to obtain the stresses and strains in the required range and favorable geometry which could be injection molded. Injection molding simulations were then done to find the fiber orientations, warpage, air gaps, weld lines from flow and the effect of these fiber orientations on the final strength of the part. 
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt; Brief Summary :&lt;/b&gt;
+&lt;ul&gt;
+  &lt;li&gt;Performed literature review and patent search on existing available composite pulleys designs&lt;/li&gt;
+  &lt;li&gt;Performed structural simulations for given load cases using Abaqus and redesigned the pulley assembly within the design space to account for stresses and strains&lt;/li&gt;
+  &lt;li&gt;Explored the effects of ribbing, hybrid compression molding with carbon fabric and change in geometry on stresses and strains&lt;/li&gt;
+  &lt;li&gt;Designed the gating channels, cooling channels, molds and process conditions for an initial injection molding simulation&lt;/li&gt;
+  &lt;li&gt;Performed injection molding simulations using Moldex3D to determine flow induced glass fiber orientations and characterize warpage, residual stresses, air traps, weld lines and flow front progress &lt;/li&gt;
+  &lt;li&gt;Performed structural simulation in Abaqus with flow induced glass fiber orientations as input to Abaqus model to analyze the effect of fiber orientations on stresses and strains &lt;/li&gt;
+  &lt;li&gt;An increase in stresses by 14% was observed due to orientation induced directional strength from glass fibers&lt;/li&gt;
+  &lt;li&gt;The final design was lighter by 71% from 105 lb to 30.23 lb&lt;/li&gt;
+
+&lt;/ul&gt;
+
+&lt;br /&gt;
+&lt;br /&gt;
+
+&lt;b&gt;Project Images:&lt;/b&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-md-8 col-md-offset-2&quot;&gt;
+
+&lt;img src=&quot;img/portfolio/johndeere/1.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;John Deere Image 1&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 1. &lt;/b&gt;Original geometry of the cast iron pulley and belt assembly&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/johndeere/2.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;John Deere Image 2&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 2. &lt;/b&gt;Simplified geometry for large and small pulley for simulations&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/johndeere/3.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;John Deere Image 3&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 3. &lt;/b&gt;Stress distribution in cast iron pulley for given loading conditions showing probable failure locations&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/johndeere/4.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;John Deere Image 4&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 4. &lt;/b&gt;Modified geometry for stress distribution and stress concentrations due to 6 radial ribs&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/johndeere/5.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;John Deere Image 5&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 5. &lt;/b&gt;Modified geometry for stress distribution and stress concentrations due to 12 radial ribs&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/johndeere/6.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;John Deere Image 6&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 6. &lt;/b&gt;Modified design 1 for injection molding &lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/johndeere/7.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;John Deere Image 7&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 7. &lt;/b&gt;Modified design 2 for injection molding &lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/johndeere/8.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;John Deere Image 8&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 8. &lt;/b&gt;Modified design 3 for injection molding &lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/johndeere/9.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;John Deere Image 9&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 9. &lt;/b&gt;Modified design 4 for injection molding &lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/johndeere/10.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;John Deere Image 10&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 10. &lt;/b&gt;Stress distribution for final injection molded design iteration 4 showing probable failure locations for large pulley&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/johndeere/11.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;John Deere Image 11&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 11. &lt;/b&gt;Stress distribution for final design iteration 4 showing probable failure locations for small pulley&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/johndeere/12.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;John Deere Image 12&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 12. &lt;/b&gt;Injection molding simulation design and workflow &lt;/p&gt;
+
+
+&lt;div align=&quot;center&quot;&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ovoM6nfpavM&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Video 1. &lt;/b&gt;Flow front progression in injection molding&lt;/p&gt;
+&lt;/div&gt;
+
+
+&lt;img src=&quot;img/portfolio/johndeere/14.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;John Deere Image 13&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 13. &lt;/b&gt;Warpage in the large pulley as a result of injection molding&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/johndeere/15.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;John Deere Image 14&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 14. &lt;/b&gt;Location of air gaps and weld lines from injection molding simulations&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/johndeere/16.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;John Deere Image 15&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 15. &lt;/b&gt;Distribution of fiber orientations in X, Y and Z directions&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/johndeere/17.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;John Deere Image 16&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 16. &lt;/b&gt;Mapping of fiber orientations from injection molding using Digimat to Abaqus file for structural simulation&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/johndeere/18.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;John Deere Image 16&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 17. &lt;/b&gt;Mapped orientations to abaqus file for large and small pulley from injection molding simulations&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/johndeere/19.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;John Deere Image 16&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 18. &lt;/b&gt;Stresses from anisotropic structural simulation accounting for fiber orientation from injection molding which leads to overall 14% increase in overall stresses from isotropic simulations &lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/johndeere/20.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;John Deere Image 16&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 19. &lt;/b&gt;Principal strains from structural simulation accounting for fiber orientations from injection molding&lt;/p&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Thu, 17 Jul 2014 00:00:00 -0400</pubDate>
+        <link>/web%20development/2014/07/17/johndeere/</link>
+        <guid isPermaLink="true">/web%20development/2014/07/17/johndeere/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Ford Motors</title>
+        <description>&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align: justify&quot;&gt;
+
+&lt;b&gt;Abstract :&lt;/b&gt; The project aimed at designing, simulating and manufacturing front lower composite control arm for Ford Motors using compression molding to take advantage of high strength-to-weight ratio of composite materials. A control arm is a hinged suspension link between the chassis and the suspension upright or hub that carries the wheel. The raw material was made by combining two existing advance technologies named Rapid Fabric Formation (RFF) from DuPont and Fibrflex from Fibrtec by the respective companies and offered high flexibility and drapibility for a thermoplastic resin formulation. Transversely isotropic properties for the raw material were determined using experimental tests to populate the material card and further used in Abaqus simulations. Structural simulations were then performed with composite layup using Abaqus for given load cases to satisfy the stiffness requirements. Changes in the geometry were made along with change in composite laminate orientations to study the effect of material orientation and geometric design.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt; Brief Summary :&lt;/b&gt;
+&lt;ul&gt;
+  &lt;li&gt;Characterized the proprietary composite laminate material system for strength by performing tensile tests, shear tests, compressive tests and fracture toughness tests in different directions according to ASTM standards&lt;/li&gt;
+  &lt;li&gt;Used MTS machine for loading specimens along with strain gauges and Digital Image Correlation (DIC) to measure strains&lt;/li&gt;
+  &lt;li&gt;Analyzed the interpreted the machine data using Python programming language for different material properties&lt;/li&gt;
+  &lt;li&gt;Used the material properties as input for composite laminate simulations using Abaqus&lt;/li&gt;
+  &lt;li&gt;Studied the effect of change on geometry and material orientations on stresses and strains using Abaqus&lt;/li&gt;
+  &lt;li&gt;Performed preliminary compression molding experiments using the proprietary material system&lt;/li&gt;
+
+&lt;/ul&gt;
+
+&lt;br /&gt;
+&lt;br /&gt;
+
+&lt;b&gt;Project Images:&lt;/b&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-md-6 col-md-offset-3&quot;&gt;
+
+
+&lt;img src=&quot;img/portfolio/ford/testing/2.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Ford Image 2&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 1. &lt;/b&gt;Prepared coupons for tensile testing&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/ford/testing/3.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Ford Image 3&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 2. &lt;/b&gt;Tested specimens to determine strength along different directions&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/ford/testing/4.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Ford Image 4&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 3. &lt;/b&gt;Prepared Mode I fracture toughness samples&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/ford/testing/5.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Ford Image 5&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 4. &lt;/b&gt;Propagation of cracks while testing Mode I fracture toughness&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/ford/testing/6.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Ford Image 6&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 5. &lt;/b&gt;Experimental force-displacement data indicating propagation of crack at load drop &lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/ford/testing/7.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Ford Image 7&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 6. &lt;/b&gt;Specimen failing in bending rather than crack propagation due to high bending strength &lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/ford/testing/8.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Ford Image 8&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 7. &lt;/b&gt;Fixture for performing IITRI compression test &lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/ford/testing/9.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Ford Image 9&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 8. &lt;/b&gt;Strain gauges samples for compression test for measuring compressive modulus &lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/ford/testing/10.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Ford Image 10&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 9. &lt;/b&gt;Shear failure in compression test specimens&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/ford/testing/11.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Ford Image 11&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 10. &lt;/b&gt;Experimental setup for calculating Mode II fracture toughness&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/ford/testing/12.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Ford Image 12&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 11. &lt;/b&gt;Crack propagation for different samples in Mode II fracture mechanism &lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/ford/testing/13.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Ford Image 13&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 12. &lt;/b&gt;Shear failure of specimens to calculate shear modulus&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/ford/1.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Ford Image 14&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 13. &lt;/b&gt;CAD assembly model of aluminum casted control arm&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/ford/2.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Ford Image 15&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 14. &lt;/b&gt;CAD geometry for stamped control arm to be made using compression molding&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/ford/3.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Ford Image 16&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 15. &lt;/b&gt;Process of formation of tow and fabric&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/ford/4.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Ford Image 16&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 16. &lt;/b&gt;Assignment of principal directions for composite laminate simulation&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/ford/5.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Ford Image 16&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 17. &lt;/b&gt; Displacement contours for bending and compression load cases of composite laminate&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/ford/6.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Ford Image 16&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 18. &lt;/b&gt;Modification of surfaces to reduce stress and displacement results&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/ford/7.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Ford Image 16&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 19. &lt;/b&gt;Geometric modification I &lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/ford/8.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Ford Image 16&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 20. &lt;/b&gt;Geometric modification II&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Wed, 16 Jul 2014 00:00:00 -0400</pubDate>
+        <link>/web%20development/2014/07/16/controlarm/</link>
+        <guid isPermaLink="true">/web%20development/2014/07/16/controlarm/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Nexteer</title>
+        <description>&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align: justify&quot;&gt;
+
+
+
+&lt;b&gt;Abstract :&lt;/b&gt;  The work aimed at developing new composite steering columns that take advantage of the favorable stiffness-to-weight ratio of carbon fiber composites to deliver enhanced performance. The first phase involved the homogenization of material properties for laminate consisting layers of unidirectional pultrusion material, continuous filament mat and biaxial carbon fabric. A sensitivity study was then done to find the change in natural frequencies as a function of pultruded angle, thickness and different material properties using Abaqus. A python code coupled with Abaqus was developed to automate the process of changing material properties and writing required results to a user specified file eliminating the use of graphical user interface and manual labor.
+&lt;br /&gt;
+&lt;br /&gt;
+ &lt;ul&gt;
+  &lt;li&gt;Initially performed natural frequency analysis using Abaqus for provided original model using Abaqus without composites to find first 3 natural frequencies&lt;/li&gt;
+  &lt;li&gt;Fixed the errors in the Abaqus model for successfully finding the natural frequencies of the column&lt;/li&gt;
+  &lt;li&gt;Found the homogenized material properties for laminates consisting of pultrusion layer, continuous filament mat and biaxial carbon fabric using classical laminate plate theory&lt;/li&gt;
+  &lt;li&gt;Used the material properties in Abaqus model to find the change in natural frequencies with change in material properties&lt;/li&gt;
+  &lt;li&gt;Performed a sensitivity study to study change in natural frequencies as a function of different material properties and analyzing the part having the maximum effect&lt;/li&gt;
+  &lt;li&gt;The work was automated using Python coding coupled with Abaqus which made necessary changes to the Abaqus input file, ran the simulations, extracted the results and wrote them to a specific file without the need of graphical user interface and manual labor&lt;/li&gt;
+&lt;/ul&gt; 
+
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt; Project Videos :&lt;/b&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;div align=&quot;center&quot;&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/sktnC-ZgR7U&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt;Video 1 : &lt;/b&gt;1st Natural Frequency&lt;/p&gt;
+
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/f_pYAG4IFmY&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt;Video 2 : &lt;/b&gt;2nd Natural Frequency&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/7JmLGNPLfLA&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt;Video 3 : &lt;/b&gt;3rd Natural Frequency&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+</description>
+        <pubDate>Tue, 15 Jul 2014 00:00:00 -0400</pubDate>
+        <link>/web%20development/2014/07/15/nexteer/</link>
+        <guid isPermaLink="true">/web%20development/2014/07/15/nexteer/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Manufacturing of Composites</title>
+        <description>&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align: justify&quot;&gt;
+
+
+
+&lt;b&gt;Manufacturing of Composites :&lt;/b&gt;  Understanding of composite manufacturing is essential to develop a complete understanding for designing a composite structure. The course taught by Prof. R. Byron Pipes at Purdue University aimed at examining the phenomenon involved like Darcy flow, permeability and compaction of fiber beds, thermoset reaction kinetics, polymer viscosity, property measurements, heat transfer, void formation, polymer physical properties, anisotropic composite properties, and residual behavior. The course developed theoretical and experimental skills in the following mentioned areas.
+&lt;br /&gt;
+&lt;br /&gt;
+ &lt;ul&gt;
+  &lt;li&gt;Polymer Transitions (Glass transition temp, degree of cure, visco-elastic behavior)&lt;/li&gt;
+  &lt;li&gt;Cure Kinetics and Rheology&lt;/li&gt;
+  &lt;li&gt;Darcy’s Law&lt;/li&gt;
+  &lt;li&gt;In and out of autoclave manufacturing (VARTM, Oven, Autoclave)&lt;/li&gt;
+  &lt;li&gt;Thermal residual stresses and deformation&lt;/li&gt;
+  &lt;li&gt;Percolation and transverse squeeze flow&lt;/li&gt;
+  &lt;li&gt;Compression molding&lt;/li&gt;
+&lt;/ul&gt; 
+
+
+&lt;br /&gt;
+&lt;br /&gt;
+
+&lt;b&gt;Project Images:&lt;/b&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-md-6 col-md-offset-3&quot;&gt;
+&lt;img src=&quot;img/portfolio/manufacturing/1.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Manufacturing Image 1&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 1.&lt;/b&gt; Differential Scanning Calorimetry (DSC) for determining the cure cycle of the polymer&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/manufacturing/2.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Manufacturing Image 2&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 2.&lt;/b&gt; Experimental data from DSC to determine cure cycle for different temperatures&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/manufacturing/3.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Manufacturing Image 3&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 3.&lt;/b&gt; Thermocouples placed on bottom, mid and top of laminate to analyze the temperature distribution&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/manufacturing/4.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Manufacturing Image 4&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 4.&lt;/b&gt; Experimental data obtained from thermocouples for different location of thermocouples&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/manufacturing/5.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Manufacturing Image 5&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 5.&lt;/b&gt; Placement of polymer in DSC to determine degree of cure as a function of temperature&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/manufacturing/6.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Manufacturing Image 6&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 6.&lt;/b&gt; Experimental data for degree of cure as a function of temperature and time &lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/manufacturing/7.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Manufacturing Image 7&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 7.&lt;/b&gt; Rheometer to calulate viscosity as a function of temperature and shear rate &lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/manufacturing/8.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Manufacturing Image 8&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 8.&lt;/b&gt; Experimental data for viscosity as a function of time for different temperatures&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/manufacturing/9.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Manufacturing Image 9&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 9.&lt;/b&gt; Experimental setup for calculating directional permeability from Darcy flow equations&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/manufacturing/10.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Manufacturing Image 10&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 10.&lt;/b&gt; Experimental results for flow fronts to calculate directional in-plane permeabilities&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/manufacturing/11.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Manufacturing Image 11&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 11.&lt;/b&gt; NACA duct layup for curing in autoclave and oven &lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/manufacturing/12.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Manufacturing Image 12&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 12.&lt;/b&gt; Final parts after curing in oven and autoclave. Extra resin flow for autoclave part indicates better compaction and less voids &lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/manufacturing/13.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Manufacturing Image 13&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 13.&lt;/b&gt; Manufacturing of NACA duct using VARTM process &lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/manufacturing/14.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Manufacturing Image 14&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 14.&lt;/b&gt; Final cured part from VARTM manufacturing process &lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/manufacturing/15.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Manufacturing Image 15&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 15.&lt;/b&gt; Microscopy of autoclave cured part indicating better compaction and no voids &lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/manufacturing/16.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Manufacturing Image 16&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 16.&lt;/b&gt; Microscopy of VARTM cured part indicating higher void concentration due to low compaction pressure&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/manufacturing/17.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Manufacturing Image 17&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 17.&lt;/b&gt; Possible responses of laminated composite ring after curing due to presence of thermal residual stresses &lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/manufacturing/18.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Manufacturing Image 18&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 18.&lt;/b&gt; Composite ring layup on aluminum and steel tool to analyze cured residual stresses&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/manufacturing/19.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Manufacturing Image 19&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 19.&lt;/b&gt; Measured experimental displacements after cutting the composite ring due to thermal residual stresses &lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/manufacturing/20.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Manufacturing Image 20&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 20.&lt;/b&gt; Compression molding tool for a pin bracket&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/manufacturing/21.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Manufacturing Image 21&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 21.&lt;/b&gt; Compression molded part from PPMC material&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/manufacturing/22.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Manufacturing Image 22&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 22.&lt;/b&gt; Microscopy image showing the flow of fibers in molding and knit line&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/manufacturing/23.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Manufacturing Image 23&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 23.&lt;/b&gt; 3D printed and machined tool for compression molding&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/manufacturing/24.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Manufacturing Image 24&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 24.&lt;/b&gt; Laser scanning of tool surface after compression molding to check for deformations &lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/manufacturing/25.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Manufacturing Image 25&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 25.&lt;/b&gt; Deviation of the part from its initial geometry due to compression molding&lt;/p&gt;
+&lt;/div&gt;
+
+
+
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sun, 13 Jul 2014 00:00:00 -0400</pubDate>
+        <link>/web%20development/2014/07/13/manufacturing/</link>
+        <guid isPermaLink="true">/web%20development/2014/07/13/manufacturing/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Characterization of Composites</title>
+        <description>&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align: justify&quot;&gt;
+
+&lt;b&gt;Characterization of composites :&lt;/b&gt;  With the advancement in technology to reduce manufacturing costs composites have found their way in the industries due to their high strength-to-weight ratio. Working with composites it is imperative to understand the direction dependence of properties of composites. The course of Characterization of Composites taught by Prof. R. Byron Pipes at Purdue University aimed at developing the mathematical understanding of directional behavior of composites along with lab experiments to validate the theoretical knowledge. The course developed theoretical and experimental skills in the following mentioned areas.
+&lt;br /&gt;
+&lt;br /&gt;
+ &lt;ul&gt;
+  &lt;li&gt;Micromechanics&lt;/li&gt;
+  &lt;li&gt;Anisotropic Elasticity&lt;/li&gt;
+  &lt;li&gt;Failure Theories&lt;/li&gt;
+  &lt;li&gt;Microscopy&lt;/li&gt;
+  &lt;li&gt;Directional tensile testing&lt;/li&gt;
+  &lt;li&gt;In plane shear and off axis tensile strength&lt;/li&gt;
+  &lt;li&gt;CTE of lamina and Laminates&lt;/li&gt;
+  &lt;li&gt;Open Hole Tension&lt;/li&gt;
+  &lt;li&gt;Mode I and Mode II fracture toughness&lt;/li&gt;
+  &lt;li&gt;Free edge effects&lt;/li&gt;
+  &lt;li&gt;Compression failure&lt;/li&gt;
+&lt;/ul&gt; 
+
+
+&lt;br /&gt;
+&lt;br /&gt;
+
+&lt;b&gt;Project Images:&lt;/b&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-md-6 col-md-offset-3&quot;&gt;
+&lt;img src=&quot;img/portfolio/characterization/1.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Characterization Image 1&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 1.&lt;/b&gt; Effect of symmetric and unsymmetric layup on cured composite laminate&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/characterization/2.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Characterization Image 2&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 2.&lt;/b&gt; Microscopy of laminate to find fiber diameter, fiber volume fraction and fiber layup angles&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/characterization/3.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Characterization Image 3&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 3.&lt;/b&gt; MTS machine for tensile loading&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/characterization/4.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Characterization Image 4&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 4.&lt;/b&gt; Prepared and tested samples for orientation 90, Strain calculated using DIC and strain gauge&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/characterization/5.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Characterization Image 5&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 5.&lt;/b&gt; Analyzed stress-strain curve for transverse loading from load data by MTS and strain DIC&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/characterization/6.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Characterization Image 6&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 6.&lt;/b&gt; Prepared samples for measuring shear modulus with strain gauges &lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/characterization/7.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Characterization Image 7&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 7.&lt;/b&gt; Shear stress vs shear strain plot for data collected &lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/characterization/8.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Characterization Image 8&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 8.&lt;/b&gt; Samples for off axis tensile testing to characterize strength as function of fiber orientation &lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/characterization/9.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Characterization Image 9&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 9.&lt;/b&gt; Experimental strength and predicted strength as function of fiber orientation for differnt theories &lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/characterization/10.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Characterization Image 10&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 10.&lt;/b&gt; Correlation of experimentally measured displacements from DIC with theoretical results&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/characterization/11.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Characterization Image 11&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 11.&lt;/b&gt; Flexure testing of samples as function of aspect ratio&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/characterization/12.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Characterization Image 12&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 12.&lt;/b&gt; Failure mode for longitudinal and transverse samples in flexure &lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/characterization/13.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Characterization Image 13&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 13.&lt;/b&gt; Stress vs strain curve for samples with different aspect ratio in flexure &lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/characterization/14.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Characterization Image 14&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 14.&lt;/b&gt; Experimental setup for measuring the coefficient of thermal expansion &lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/characterization/15.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Characterization Image 15&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 15.&lt;/b&gt; Thermal strains along fiber directions measured from DIC &lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/characterization/16.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Characterization Image 16&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 16.&lt;/b&gt; Thermal strains as a function of temperature&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/characterization/17.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Characterization Image 17&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 17.&lt;/b&gt; Prepared samples for open hole tension for different hole sizes&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/characterization/18.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Characterization Image 18&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 18.&lt;/b&gt; Failed specimens for open hole tension for different laminates&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/characterization/19.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Characterization Image 19&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 19.&lt;/b&gt; Corellation of experimental and theoretical results of failure strength for open hole tension test &lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/characterization/20.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Characterization Image 20&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 20.&lt;/b&gt; Mode I fracture toughness experimental setup&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/characterization/21.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Characterization Image 21&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 21.&lt;/b&gt; Experimental data for propagation of crack with the increase in tensile force to calculate Mode I fracture toughness&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/characterization/22.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Characterization Image 22&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 22.&lt;/b&gt; Mode II fracture toughness experimental setup &lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/characterization/23.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Characterization Image 23&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 23.&lt;/b&gt; Experimental data for propagation of crack with the increase in tensile force to calculate Mode II fracture toughness&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/characterization/24.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Characterization Image 24&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 24.&lt;/b&gt; Compression testing experimetnal setup&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/characterization/25.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Characterization Image 25&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 25.&lt;/b&gt; Microscopy of failed samples in compression&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/characterization/26.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Characterization Image 26&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 26.&lt;/b&gt; Failure mechanism for compression testing for different orientations of composite laminates&lt;/p&gt;
+&lt;/div&gt;
+
+
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Sat, 12 Jul 2014 00:00:00 -0400</pubDate>
+        <link>/web%20development/2014/07/12/characterization/</link>
+        <guid isPermaLink="true">/web%20development/2014/07/12/characterization/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>TeamKart extend title</title>
+        <description>&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align: justify&quot;&gt;
+
+
+
+&lt;b&gt;Abstract :&lt;/b&gt;  TeamKart is the formula student team of IIT Kharagpur which designs, fabricates, manufactures and tests Formula prototype sports car. As a part of the transmission subsystem, I along with other members of the subsystem designed and implemented an electro-pneumatic gear shifting mechanism from the existing manual pull-push rod shifting mechanism for better efficiency and driver ergonomics. 
+&lt;br /&gt;
+&lt;br /&gt;
+The work involved studying the existing technologies available and modifying to the required needs. The design and selection of several components such as high pressure air source, solenoid valve, air regulators, two way actuators and electronic wiring with an Arduino was done. The components were bought assembled together to obtain a fully functional prototype of the shifting mechanism. Calculations were done to calculate the torque requirement for shifting along with actuator lengths and mounting locations. Finally the solenoid value was actuated by pressing the up-shift or down-shift button with the algorithm planned in an Arduino. 
+&lt;br /&gt;
+&lt;br /&gt;
+
+&lt;b&gt;Project Images and Videos:&lt;/b&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-md-8 col-md-offset-2&quot;&gt;
+
+
+&lt;img src=&quot;img/portfolio/teamkart/2.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Ford Image 2&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 1. &lt;/b&gt;Designed and manufactured formula student car by the team&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/utDvrWokKi8&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Video 1. &lt;/b&gt;Electro-pneumatic shifting&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/JoGxCxd-b7Q&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Video 2. &lt;/b&gt;Electro-pneumatic shifting&lt;/p&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Fri, 11 Jul 2014 00:00:00 -0400</pubDate>
+        <link>/web%20development/2014/07/11/teamkart/</link>
+        <guid isPermaLink="true">/web%20development/2014/07/11/teamkart/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Friction Stir Welding title</title>
+        <description>&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align: justify&quot;&gt;
+
+
+
+&lt;b&gt;Project Details :&lt;/b&gt;  Friction stir welding is a solid state joining process that uses frictional heat generated by a rotating tool to join materials. The tool is non-consumable and rotates while rubbing against different pieces of materials which causes the frictional heat to soften the materials and the rotation of the tool mixes the materials resulting in joining or welding when cooled. It is a high strain rate complex deformation process and in the study the process was studies as a CFD phenomenon to predict heat generation and temperature distribution with high viscosity fluid as a function of strain rate. The viscosity of the fluid around the tool was low due to high strain rate and helps in visualization of material mixing. The results obtained by the simulation were experimentally validated from the temperature data obtained from the thermocouple. 
+&lt;br /&gt;
+&lt;br /&gt;
+Outcomes of the project:
+&lt;br /&gt;
+ &lt;ul&gt;
+  &lt;li&gt;Successfully modelled friction stir welding with 95% accuracy compared to experimental results&lt;/li&gt;
+  &lt;li&gt;The work was selected to be presented at IDETC/CIE conference as a part of “Innovative Design Simulation Challenge” organized by ASME and was awarded $3500 in the category “Best Utility in Commercial Category”
+&lt;/li&gt;
+&lt;/ul&gt; 
+&lt;br /&gt;
+&lt;br /&gt;
+
+&lt;b&gt;Project Images:&lt;/b&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-md-6 col-md-offset-3&quot;&gt;
+
+&lt;img src=&quot;img/portfolio/fsw/1.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;FSW Image 1&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 1. &lt;/b&gt;Experimental setup on 2-ton NC controlled FSW machine&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/fsw/2.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;FSW Image 2&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 2. &lt;/b&gt;Geometric model of workpiece and boundary conditions&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/fsw/3.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;FSW Image 3&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 3. &lt;/b&gt;Numerical results for temperature distribution for 1200 rpm&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/fsw/4.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;FSW Image 4&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 4. &lt;/b&gt;Cross-sectional view of temperature distribution at 1200 rpm&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/fsw/5.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;FSW Image 5&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 5. &lt;/b&gt;Shoulder and Pin bottom heat flux distribution&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/fsw/6.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;FSW Image 6&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 6. &lt;/b&gt;Strain rate distribution for various rotational speed at 60 mm/min (a) 900 rpm (b) 1200 rpm (c) 1500 rpm &lt;/p&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 10 Jul 2014 00:00:00 -0400</pubDate>
+        <link>/web%20development/2014/07/10/fsw/</link>
+        <guid isPermaLink="true">/web%20development/2014/07/10/fsw/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Quadcopter</title>
+        <description>&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align: justify&quot;&gt;
+
+
+
+&lt;b&gt;Project Details :&lt;/b&gt;  The purpose of the class project was to develop a remotely controlled aerial vehicle to perform facial recognition. The prototype developed was fully functional and used a transmitter to relay live video feed on laptop which is used to perform facial recognition in real time. 
+&lt;br /&gt;
+&lt;br /&gt;
+The first step included was to design the quadcopter and select the required electronic components. A custom frame was manufactured by designing in CATIA and then using layup of carbon fiber fabric and oven curing and then cutting the required geometry using a waterjet. After performing required background research on quadcopters and available technology EMAX 2300 KV motors, BLHeli 32 bit electronic speed controllers (ESC), Naze32 flight controller, power distribution board, battery, transmitter and camera were chosen. This required analysis of the total weight of the quadcopter to ensure the thrust provided by the motors would be sufficient. Additionally, the power draw of the motors was considered to ensure the battery could support a long enough flight time.
+&lt;br /&gt;
+&lt;br /&gt;
+The components were integrated together with correct wiring and attached with the frame. The microcontroller which acts like a brain for the quadcopter was configured to calibrate the motor, configure the transmitter settings and PID tuning. In parallel to creating the quadcopter, the code for facial recognition was developed using the open source resources like openCV. The code was put together to analyze a live video feed and perform facial recognition. From a set of still photos the code was trained to recognize the people for which it was trained. 
+&lt;br /&gt;
+&lt;br /&gt;
+The quadcopter was fully functional and performed facial recognition for required targets. Further efforts are being made to make the quadcopter fully or semi-autonomous along with object detection using Lidar.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt; Project Videos :&lt;/b&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;div align=&quot;center&quot;&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/2wd8_nUzhJc&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt;Video 1 : &lt;/b&gt;Built quadcopter flight test&lt;/p&gt;
+
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ui3V9E8bmi4&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt;Video 2 : &lt;/b&gt;Facial Recognition using Quadcopter&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+
+
+&lt;/div&gt;
+</description>
+        <pubDate>Wed, 09 Jul 2014 00:00:00 -0400</pubDate>
+        <link>/web%20development/2014/07/09/quad/</link>
+        <guid isPermaLink="true">/web%20development/2014/07/09/quad/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Cruise Control</title>
+        <description>&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align: justify&quot;&gt;
+
+
+
+&lt;b&gt;Project Details :&lt;/b&gt;  The project of implementing the cruise control algorithm using PID for a steam engine was done as a part of the course Microprocessors in electro-mechanical systems. The class objectives were to develop detailed understanding in the areas mentioned below with lab experiments for practical implementation. 
+&lt;br /&gt;
+&lt;br /&gt;
+ &lt;ul&gt;
+  &lt;li&gt;Digital Logic&lt;/li&gt;
+  &lt;li&gt;Microcontroller components and programming&lt;/li&gt;
+  &lt;li&gt;Assembly language programming&lt;/li&gt;
+  &lt;li&gt;Subroutines using assembly language and C&lt;/li&gt;
+  &lt;li&gt;Programming peripherals using assembly language and C&lt;/li&gt;
+  &lt;li&gt;Programming GPIO using assembly language and C&lt;/li&gt;
+  &lt;li&gt;erial communication (UART)&lt;/li&gt;
+  &lt;li&gt;Programming interrupts using assembly language and C&lt;/li&gt;
+  &lt;li&gt;Timer interrupts&lt;/li&gt;
+  &lt;li&gt;Mixed assembly language and C language programming&lt;/li&gt;
+  &lt;li&gt;Digital to Analog conversion&lt;/li&gt;
+  &lt;li&gt;Analog to Digital conversion&lt;/li&gt;
+  &lt;li&gt;Continuous and discrete PID control system&lt;/li&gt;
+  &lt;li&gt;Effects of sampling and aliasing in PID&lt;/li&gt;
+  &lt;li&gt;Digital filters&lt;/li&gt;
+  &lt;li&gt;Peripherals (Timers, DMA, I^2C, GPIO)&lt;/li&gt;
+  &lt;li&gt;Types of stepper motors and its programming&lt;/li&gt;
+  &lt;li&gt;Optical encoders&lt;/li&gt;
+&lt;/ul&gt; 
+&lt;br /&gt;
+The final project of the course included implementing the PID cruise control algorithm using all the knowledge from the course material and lab experiments on a model steam engine. The tasks included writing a PID algorithm in an interrupt and running the interrupt at a given frequency to implement the algorithm on the engine. The PI controller values were found by system characterization for a given damping ratio and settling time.  The model was also simulated in Simulink to verify and compare the system response. The controller was then implemented on the STM32 microcontroller for the digital implementation of the system. The cruise controller performed as expected by maintaining the speed within a required settling time and achieved all project deliverables.
+&lt;br /&gt;
+&lt;br /&gt;
+
+&lt;b&gt;Project Images:&lt;/b&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-md-6 col-md-offset-3&quot;&gt;
+
+
+&lt;img src=&quot;img/portfolio/cruise_control/1.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Cruise Control Image 1&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 1. &lt;/b&gt;Complete experimental setup including 4-stroke engine, air supply, air filter and regulator, microcontroller, motor and optical encoder&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/cruise_control/2.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Cruise Control Image 2&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 2. &lt;/b&gt;Model engine operated by air pressue with attached encoder to measure rotational rpm&lt;/p&gt;
+
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Tue, 08 Jul 2014 00:00:00 -0400</pubDate>
+        <link>/web%20development/2014/07/08/cruise/</link>
+        <guid isPermaLink="true">/web%20development/2014/07/08/cruise/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+  </channel>
+</rss>
