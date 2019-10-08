@@ -1,5 +1,5 @@
 ---
-title: John Deere
+title: Injection molded pulley, John Deere
 subtitle: Mechanical Design
 layout: default
 modal-id: 2
@@ -16,6 +16,11 @@ description:
 <br>
 <br>
 <div style="text-align: justify">
+<b>Students Incharge :</b> Himal Agrawal, David Kim
+<br>
+<b>Project Supervisors :</b> Josh Dustin, Prof. Jan-Anders Mansson
+<br>
+<br>
 
 
 <b>Abstract :</b> Feasibility of polymer composite material pulley viable for John Deere high power belt drive in tractors was studied. The increase in maintenance difficulties for cast iron pulley being heavy led to the decision to design lighter glass giber reinforced injection molded pulley offering the same stiffness, strength, fatigue properties and resistance to creep. Structural simulations were done from the given loading conditions and the geometry was redesigned to obtain the stresses and strains in the required range and favorable geometry which could be injection molded. Injection molding simulations were then done to find the fiber orientations, warpage, air gaps, weld lines from flow and the effect of these fiber orientations on the final strength of the part. 

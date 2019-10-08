@@ -1,5 +1,5 @@
 ---
-title: Friction Stir Welding title
+title: Modelling of Friction Stir Welding 
 subtitle: Mechanical Design
 layout: default
 modal-id: 9
@@ -17,6 +17,11 @@ description:
 <br>
 <br>
 <div style="text-align: justify">
+<b>Student Incharge :</b> Himal Agrawal
+<br>
+<b>Project Supervisors :</b> Prof. Rahul Jain, Prof. S.K. Pal
+<br>
+<br>
 
 
 

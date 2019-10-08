@@ -1,5 +1,5 @@
 ---
-title: TeamKart extend title
+title: Formula Student Team, IIT Kharagpur
 subtitle: Mechanical Design
 layout: default
 modal-id: 8
@@ -16,6 +16,11 @@ description:
 <br>
 <br>
 <div style="text-align: justify">
+<b>Students Incharge :</b> Himal Agrawal, Vraj Parikh, Siraj Modiwala
+<br>
+<b>Project Supervisors :</b> Prof A.R. Mohanty, Prof. C.S. Kumar, Prof. S.K. Panda
+<br>
+<br>
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: Ford Motors
+title: Composite Control Arm, Ford Motors
 subtitle: Mechanical Design
 layout: default
 modal-id: 3
@@ -16,6 +16,12 @@ description:
 <br>
 <br>
 <div style="text-align: justify">
+<b>Students Incharge :</b> Himal Agrawal, David Kim
+<br>
+<b>Project Supervisor :</b> Mike Bogdanor
+<br>
+<br>
+
 
 <b>Abstract :</b> The project aimed at designing, simulating and manufacturing front lower composite control arm for Ford Motors using compression molding to take advantage of high strength-to-weight ratio of composite materials. A control arm is a hinged suspension link between the chassis and the suspension upright or hub that carries the wheel. The raw material was made by combining two existing advance technologies named Rapid Fabric Formation (RFF) from DuPont and Fibrflex from Fibrtec by the respective companies and offered high flexibility and drapibility for a thermoplastic resin formulation. Transversely isotropic properties for the raw material were determined using experimental tests to populate the material card and further used in Abaqus simulations. Structural simulations were then performed with composite layup using Abaqus for given load cases to satisfy the stiffness requirements. Changes in the geometry were made along with change in composite laminate orientations to study the effect of material orientation and geometric design.
 <br>

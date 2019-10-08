@@ -17,6 +17,11 @@ description:
 <br>
 <br>
 <div style="text-align: justify">
+<b>Student Incharge :</b> Himal Agrawal
+<br>
+<b>Project Supervisor :</b> Prof. Peter Meckl
+<br>
+<br>
 
 
 

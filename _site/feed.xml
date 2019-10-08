@@ -5,15 +5,20 @@
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 08 Oct 2019 15:30:41 -0400</pubDate>
-    <lastBuildDate>Tue, 08 Oct 2019 15:30:41 -0400</lastBuildDate>
+    <pubDate>Tue, 08 Oct 2019 18:39:23 -0400</pubDate>
+    <lastBuildDate>Tue, 08 Oct 2019 18:39:23 -0400</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
-        <title>Leaf Spring</title>
+        <title>Composite leaf spring, Ford Motors</title>
         <description>&lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 &lt;div style=&quot;text-align: justify&quot;&gt;
+&lt;b&gt;Student Incharge :&lt;/b&gt; Himal Agrawal
+&lt;br /&gt;
+&lt;b&gt;Project Supervisor :&lt;/b&gt; Prof. R. Byron Pipes 
+&lt;br /&gt;
+&lt;br /&gt;
 
 &lt;b&gt;Abstract :&lt;/b&gt; Leaf springs are a part of the suspension system attached between the axle and the chassis
 of the vehicle to support weight and provide shock absorbing capacity of the vehicle. For more than half a century the leaf springs are being made of steel which increases the weight of the vehicle and is prone to rusting and failure. The current study explores the feasibility of composite leaf spring to reduce weight by designing, manufacturing and testing the composite leaf spring for the required load cases.
@@ -96,8 +101,8 @@ of the vehicle to support weight and provide shock absorbing capacity of the veh
 
 </description>
         <pubDate>Fri, 18 Jul 2014 00:00:00 -0400</pubDate>
-        <link>/web%20development/2014/07/18/leafspring/</link>
-        <guid isPermaLink="true">/web%20development/2014/07/18/leafspring/</guid>
+        <link>/leafspring</link>
+        <guid isPermaLink="true">/leafspring</guid>
         
         
         <category>Web Development</category>
@@ -105,10 +110,15 @@ of the vehicle to support weight and provide shock absorbing capacity of the veh
       </item>
     
       <item>
-        <title>John Deere</title>
+        <title>Injection molded pulley, John Deere</title>
         <description>&lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 &lt;div style=&quot;text-align: justify&quot;&gt;
+&lt;b&gt;Students Incharge :&lt;/b&gt; Himal Agrawal, David Kim
+&lt;br /&gt;
+&lt;b&gt;Project Supervisors :&lt;/b&gt; Josh Dustin, Prof. Jan-Anders Mansson
+&lt;br /&gt;
+&lt;br /&gt;
 
 
 &lt;b&gt;Abstract :&lt;/b&gt; Feasibility of polymer composite material pulley viable for John Deere high power belt drive in tractors was studied. The increase in maintenance difficulties for cast iron pulley being heavy led to the decision to design lighter glass giber reinforced injection molded pulley offering the same stiffness, strength, fatigue properties and resistance to creep. Structural simulations were done from the given loading conditions and the geometry was redesigned to obtain the stresses and strains in the required range and favorable geometry which could be injection molded. Injection molding simulations were then done to find the fiber orientations, warpage, air gaps, weld lines from flow and the effect of these fiber orientations on the final strength of the part. 
@@ -219,10 +229,16 @@ of the vehicle to support weight and provide shock absorbing capacity of the veh
       </item>
     
       <item>
-        <title>Ford Motors</title>
+        <title>Composite Control Arm, Ford Motors</title>
         <description>&lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 &lt;div style=&quot;text-align: justify&quot;&gt;
+&lt;b&gt;Students Incharge :&lt;/b&gt; Himal Agrawal, David Kim
+&lt;br /&gt;
+&lt;b&gt;Project Supervisor :&lt;/b&gt; Mike Bogdanor
+&lt;br /&gt;
+&lt;br /&gt;
+
 
 &lt;b&gt;Abstract :&lt;/b&gt; The project aimed at designing, simulating and manufacturing front lower composite control arm for Ford Motors using compression molding to take advantage of high strength-to-weight ratio of composite materials. A control arm is a hinged suspension link between the chassis and the suspension upright or hub that carries the wheel. The raw material was made by combining two existing advance technologies named Rapid Fabric Formation (RFF) from DuPont and Fibrflex from Fibrtec by the respective companies and offered high flexibility and drapibility for a thermoplastic resin formulation. Transversely isotropic properties for the raw material were determined using experimental tests to populate the material card and further used in Abaqus simulations. Structural simulations were then performed with composite layup using Abaqus for given load cases to satisfy the stiffness requirements. Changes in the geometry were made along with change in composite laminate orientations to study the effect of material orientation and geometric design.
 &lt;br /&gt;
@@ -323,10 +339,15 @@ of the vehicle to support weight and provide shock absorbing capacity of the veh
       </item>
     
       <item>
-        <title>Nexteer</title>
+        <title>Steering Column, Nexteer Automotive</title>
         <description>&lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 &lt;div style=&quot;text-align: justify&quot;&gt;
+&lt;b&gt;Student Incharge :&lt;/b&gt; Himal Agrawal
+&lt;br /&gt;
+&lt;b&gt;Project Supervisor :&lt;/b&gt; Mike Bogdanor
+&lt;br /&gt;
+&lt;br /&gt;
 
 
 
@@ -622,10 +643,15 @@ of the vehicle to support weight and provide shock absorbing capacity of the veh
       </item>
     
       <item>
-        <title>TeamKart extend title</title>
+        <title>Formula Student Team, IIT Kharagpur</title>
         <description>&lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 &lt;div style=&quot;text-align: justify&quot;&gt;
+&lt;b&gt;Students Incharge :&lt;/b&gt; Himal Agrawal, Vraj Parikh, Siraj Modiwala
+&lt;br /&gt;
+&lt;b&gt;Project Supervisors :&lt;/b&gt; Prof A.R. Mohanty, Prof. C.S. Kumar, Prof. S.K. Panda
+&lt;br /&gt;
+&lt;br /&gt;
 
 
 
@@ -667,10 +693,15 @@ The work involved studying the existing technologies available and modifying to 
       </item>
     
       <item>
-        <title>Friction Stir Welding title</title>
+        <title>Modelling of Friction Stir Welding</title>
         <description>&lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 &lt;div style=&quot;text-align: justify&quot;&gt;
+&lt;b&gt;Student Incharge :&lt;/b&gt; Himal Agrawal
+&lt;br /&gt;
+&lt;b&gt;Project Supervisors :&lt;/b&gt; Prof. Rahul Jain, Prof. S.K. Pal
+&lt;br /&gt;
+&lt;br /&gt;
 
 
 
@@ -730,6 +761,11 @@ Outcomes of the project:
         <description>&lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 &lt;div style=&quot;text-align: justify&quot;&gt;
+&lt;b&gt;Students Incharge :&lt;/b&gt; Himal Agrawal, Nieves Brunet, Joseph Yanos
+&lt;br /&gt;
+&lt;b&gt;Project Supervisor :&lt;/b&gt; Prof. Vijay Raghunathan
+&lt;br /&gt;
+&lt;br /&gt;
 
 
 
@@ -779,6 +815,11 @@ The quadcopter was fully functional and performed facial recognition for require
         <description>&lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 &lt;div style=&quot;text-align: justify&quot;&gt;
+&lt;b&gt;Student Incharge :&lt;/b&gt; Himal Agrawal
+&lt;br /&gt;
+&lt;b&gt;Project Supervisor :&lt;/b&gt; Prof. Peter Meckl
+&lt;br /&gt;
+&lt;br /&gt;
 
 
 

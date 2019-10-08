@@ -1,5 +1,5 @@
 ---
-title: Leaf Spring
+title: Composite leaf spring, Ford Motors
 subtitle: Mechanical Design
 layout: default
 modal-id: 1
@@ -11,12 +11,18 @@ project-date: April 2014
 client: Start Bootstrap
 category: Web Development
 description:
+permalink: /leafspring
 
 ---
 
 <br>
 <br>
 <div style="text-align: justify">
+<b>Student Incharge :</b> Himal Agrawal
+<br>
+<b>Project Supervisor :</b> Prof. R. Byron Pipes 
+<br>
+<br>
 
 <b>Abstract :</b> Leaf springs are a part of the suspension system attached between the axle and the chassis
 of the vehicle to support weight and provide shock absorbing capacity of the vehicle. For more than half a century the leaf springs are being made of steel which increases the weight of the vehicle and is prone to rusting and failure. The current study explores the feasibility of composite leaf spring to reduce weight by designing, manufacturing and testing the composite leaf spring for the required load cases.
