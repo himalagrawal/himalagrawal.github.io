@@ -1,5 +1,6 @@
 ---
 title: Manufacturing of Composites
+heading: Manufacturing of Composites
 subtitle: Mechanical Design
 layout: default
 modal-id: 6

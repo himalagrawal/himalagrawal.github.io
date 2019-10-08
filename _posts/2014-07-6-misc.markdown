@@ -1,5 +1,6 @@
 ---
 title: Awards and Skills
+heading: Awards and Skills
 subtitle:
 layout: default
 modal-id: 13
@@ -14,8 +15,6 @@ description:
 
 ---
 
-<br>
-<br>
 <div style="text-align: justify">
 <br>
 <br>

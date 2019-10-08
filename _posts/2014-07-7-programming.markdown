@@ -1,5 +1,6 @@
 ---
 title: Programming
+heading: Programming
 subtitle: Coding
 layout: default
 modal-id: 12
@@ -20,7 +21,7 @@ description:
 
 
 
-<b>Programming :</b>  Skilled with programming languages C and Python. Completed the python course offered by Purdue University to earn a certification. Familiar with the python concepts of functions, lists, tuples, sets, dictionaries, regular expression, matplotlib, class and inheritance, NumPy and Pandas. 
+<b>Programming :</b>  Skilled with programming languages C, MATLAB and Python. Completed the python course offered by Purdue University to earn a certification. Familiar with the python concepts of functions, lists, tuples, sets, dictionaries, regular expression, matplotlib, class and inheritance, NumPy and Pandas. 
 <br>
 Passionate about evolving technologies like machine learning and completed Machine Learning course offered by Coursera to obtain 100% grade. Gained knowledge and programming skills in the following mentioned areas.
 <br>

@@ -1,5 +1,6 @@
 ---
 title: Injection molded pulley, John Deere
+heading: Design of glass fiber reinforced polyamide injection molded pulley
 subtitle: Mechanical Design
 layout: default
 modal-id: 2

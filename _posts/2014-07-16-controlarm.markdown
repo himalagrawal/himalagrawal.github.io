@@ -1,5 +1,6 @@
 ---
 title: Composite Control Arm, Ford Motors
+heading: Design of composite lower control arm for Ford Motors
 subtitle: Mechanical Design
 layout: default
 modal-id: 3

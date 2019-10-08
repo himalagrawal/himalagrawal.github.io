@@ -1,5 +1,6 @@
 ---
-title: Modelling of Friction Stir Welding 
+title: Modelling of Friction Stir Welding
+heading: Numerical modeling of heat generation and temperature distribution in a friction stir welding 
 subtitle: Mechanical Design
 layout: default
 modal-id: 9

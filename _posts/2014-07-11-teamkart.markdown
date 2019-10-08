@@ -1,5 +1,6 @@
 ---
 title: Formula Student Team, IIT Kharagpur
+heading: Formula Student Team, IIT Kharagpur
 subtitle: Mechanical Design
 layout: default
 modal-id: 8

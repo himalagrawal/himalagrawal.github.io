@@ -1,5 +1,6 @@
 ---
 title: Steering Column, Nexteer Automotive
+heading: Enhancing the natural frequencies of steering column using composites
 subtitle: Mechanical Design
 layout: default
 modal-id: 4

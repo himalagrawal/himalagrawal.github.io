@@ -1,5 +1,6 @@
 ---
 title: Quadcopter
+heading: Building a quadcopter for surveillance purposes using facial recognition
 subtitle: Electronics
 layout: default
 modal-id: 10

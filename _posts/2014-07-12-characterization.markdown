@@ -1,5 +1,6 @@
 ---
 title: Characterization of Composites
+heading: Characterization of Composites
 subtitle: Mechanical Design
 layout: default
 modal-id: 7

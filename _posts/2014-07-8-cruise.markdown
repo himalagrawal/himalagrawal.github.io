@@ -1,5 +1,6 @@
 ---
 title: Cruise Control
+heading: Implementing the cruise control algorithm on a model engine
 subtitle: Electronics
 layout: default
 modal-id: 11

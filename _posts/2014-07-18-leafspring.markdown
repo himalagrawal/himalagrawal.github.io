@@ -1,5 +1,6 @@
 ---
 title: Composite leaf spring, Ford Motors
+heading: Manufacturing and Testing of Hybrid Composite Leaf Spring
 subtitle: Mechanical Design
 layout: default
 modal-id: 1
