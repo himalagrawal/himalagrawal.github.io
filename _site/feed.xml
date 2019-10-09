@@ -5,8 +5,8 @@
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 09 Oct 2019 14:21:31 -0400</pubDate>
-    <lastBuildDate>Wed, 09 Oct 2019 14:21:31 -0400</lastBuildDate>
+    <pubDate>Wed, 09 Oct 2019 14:30:41 -0400</pubDate>
+    <lastBuildDate>Wed, 09 Oct 2019 14:30:41 -0400</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -103,125 +103,6 @@ of the vehicle to support weight and provide shock absorbing capacity of the veh
         <pubDate>Fri, 18 Jul 2014 00:00:00 -0400</pubDate>
         <link>/leafspring</link>
         <guid isPermaLink="true">/leafspring</guid>
-        
-        
-        <category>Web Development</category>
-        
-      </item>
-    
-      <item>
-        <title>Injection molded pulley, John Deere</title>
-        <description>&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-&lt;div style=&quot;text-align: justify&quot;&gt;
-&lt;b&gt;Students Incharge :&lt;/b&gt; Himal Agrawal, David Kim
-&lt;br /&gt;
-&lt;b&gt;Project Supervisors :&lt;/b&gt; Josh Dustin, Prof. Jan-Anders Mansson
-&lt;br /&gt;
-&lt;br /&gt;
-
-
-&lt;b&gt;Abstract :&lt;/b&gt; Feasibility of polymer composite material pulley viable for John Deere high power belt drive in tractors was studied. The increase in maintenance difficulties for cast iron pulley being heavy led to the decision to design lighter glass giber reinforced injection molded pulley offering the same stiffness, strength, fatigue properties and resistance to creep. Structural simulations were done from the given loading conditions and the geometry was redesigned to obtain the stresses and strains in the required range and favorable geometry which could be injection molded. Injection molding simulations were then done to find the fiber orientations, warpage, air gaps, weld lines from flow and the effect of these fiber orientations on the final strength of the part. 
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt; Brief Summary :&lt;/b&gt;
-&lt;ul&gt;
-  &lt;li&gt;Performed literature review and patent search on existing available composite pulleys designs&lt;/li&gt;
-  &lt;li&gt;Performed structural simulations for given load cases using Abaqus and redesigned the pulley assembly within the design space to account for stresses and strains&lt;/li&gt;
-  &lt;li&gt;Explored the effects of ribbing, hybrid compression molding with carbon fabric and change in geometry on stresses and strains&lt;/li&gt;
-  &lt;li&gt;Designed the gating channels, cooling channels, molds and process conditions for an initial injection molding simulation&lt;/li&gt;
-  &lt;li&gt;Performed injection molding simulations using Moldex3D to determine flow induced glass fiber orientations and characterize warpage, residual stresses, air traps, weld lines and flow front progress &lt;/li&gt;
-  &lt;li&gt;Performed structural simulation in Abaqus with flow induced glass fiber orientations as input to Abaqus model to analyze the effect of fiber orientations on stresses and strains &lt;/li&gt;
-  &lt;li&gt;An increase in stresses by 14% was observed due to orientation induced directional strength from glass fibers&lt;/li&gt;
-  &lt;li&gt;The final design was lighter by 71% from 105 lb to 30.23 lb&lt;/li&gt;
-
-&lt;/ul&gt;
-
-&lt;br /&gt;
-&lt;br /&gt;
-
-&lt;b&gt;Project Images:&lt;/b&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;div class=&quot;row&quot;&gt;
-&lt;div class=&quot;col-md-8 col-md-offset-2&quot;&gt;
-
-&lt;img src=&quot;img/portfolio/johndeere/1.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;John Deere Image 1&quot; /&gt;
-&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 1. &lt;/b&gt;Original geometry of the cast iron pulley and belt assembly&lt;/p&gt;
-
-&lt;img src=&quot;img/portfolio/johndeere/2.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;John Deere Image 2&quot; /&gt;
-&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 2. &lt;/b&gt;Simplified geometry for large and small pulley for simulations&lt;/p&gt;
-
-&lt;img src=&quot;img/portfolio/johndeere/3.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;John Deere Image 3&quot; /&gt;
-&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 3. &lt;/b&gt;Stress distribution in cast iron pulley for given loading conditions showing probable failure locations&lt;/p&gt;
-
-&lt;img src=&quot;img/portfolio/johndeere/4.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;John Deere Image 4&quot; /&gt;
-&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 4. &lt;/b&gt;Modified geometry for stress distribution and stress concentrations due to 6 radial ribs&lt;/p&gt;
-
-&lt;img src=&quot;img/portfolio/johndeere/5.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;John Deere Image 5&quot; /&gt;
-&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 5. &lt;/b&gt;Modified geometry for stress distribution and stress concentrations due to 12 radial ribs&lt;/p&gt;
-
-&lt;img src=&quot;img/portfolio/johndeere/6.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;John Deere Image 6&quot; /&gt;
-&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 6. &lt;/b&gt;Modified design 1 for injection molding &lt;/p&gt;
-
-&lt;img src=&quot;img/portfolio/johndeere/7.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;John Deere Image 7&quot; /&gt;
-&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 7. &lt;/b&gt;Modified design 2 for injection molding &lt;/p&gt;
-
-&lt;img src=&quot;img/portfolio/johndeere/8.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;John Deere Image 8&quot; /&gt;
-&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 8. &lt;/b&gt;Modified design 3 for injection molding &lt;/p&gt;
-
-&lt;img src=&quot;img/portfolio/johndeere/9.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;John Deere Image 9&quot; /&gt;
-&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 9. &lt;/b&gt;Modified design 4 for injection molding &lt;/p&gt;
-
-&lt;img src=&quot;img/portfolio/johndeere/10.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;John Deere Image 10&quot; /&gt;
-&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 10. &lt;/b&gt;Stress distribution for final injection molded design iteration 4 showing probable failure locations for large pulley&lt;/p&gt;
-
-&lt;img src=&quot;img/portfolio/johndeere/11.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;John Deere Image 11&quot; /&gt;
-&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 11. &lt;/b&gt;Stress distribution for final design iteration 4 showing probable failure locations for small pulley&lt;/p&gt;
-
-&lt;img src=&quot;img/portfolio/johndeere/12.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;John Deere Image 12&quot; /&gt;
-&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 12. &lt;/b&gt;Injection molding simulation design and workflow &lt;/p&gt;
-
-
-&lt;div align=&quot;center&quot;&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ovoM6nfpavM&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Video 1. &lt;/b&gt;Flow front progression in injection molding&lt;/p&gt;
-&lt;/div&gt;
-
-
-&lt;img src=&quot;img/portfolio/johndeere/14.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;John Deere Image 13&quot; /&gt;
-&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 13. &lt;/b&gt;Warpage in the large pulley as a result of injection molding&lt;/p&gt;
-
-&lt;img src=&quot;img/portfolio/johndeere/15.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;John Deere Image 14&quot; /&gt;
-&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 14. &lt;/b&gt;Location of air gaps and weld lines from injection molding simulations&lt;/p&gt;
-
-&lt;img src=&quot;img/portfolio/johndeere/16.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;John Deere Image 15&quot; /&gt;
-&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 15. &lt;/b&gt;Distribution of fiber orientations in X, Y and Z directions&lt;/p&gt;
-
-&lt;img src=&quot;img/portfolio/johndeere/17.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;John Deere Image 16&quot; /&gt;
-&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 16. &lt;/b&gt;Mapping of fiber orientations from injection molding using Digimat to Abaqus file for structural simulation&lt;/p&gt;
-
-&lt;img src=&quot;img/portfolio/johndeere/18.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;John Deere Image 16&quot; /&gt;
-&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 17. &lt;/b&gt;Mapped orientations to abaqus file for large and small pulley from injection molding simulations&lt;/p&gt;
-
-&lt;img src=&quot;img/portfolio/johndeere/19.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;John Deere Image 16&quot; /&gt;
-&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 18. &lt;/b&gt;Stresses from anisotropic structural simulation accounting for fiber orientation from injection molding which leads to overall 14% increase in overall stresses from isotropic simulations &lt;/p&gt;
-
-&lt;img src=&quot;img/portfolio/johndeere/20.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;John Deere Image 16&quot; /&gt;
-&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 19. &lt;/b&gt;Principal strains from structural simulation accounting for fiber orientations from injection molding&lt;/p&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;/div&gt;
-&lt;/div&gt;
-
-</description>
-        <pubDate>Thu, 17 Jul 2014 00:00:00 -0400</pubDate>
-        <link>/web%20development/2014/07/17/johndeere/</link>
-        <guid isPermaLink="true">/web%20development/2014/07/17/johndeere/</guid>
         
         
         <category>Web Development</category>
@@ -332,62 +213,6 @@ of the vehicle to support weight and provide shock absorbing capacity of the veh
         <pubDate>Wed, 16 Jul 2014 00:00:00 -0400</pubDate>
         <link>/web%20development/2014/07/16/controlarm/</link>
         <guid isPermaLink="true">/web%20development/2014/07/16/controlarm/</guid>
-        
-        
-        <category>Web Development</category>
-        
-      </item>
-    
-      <item>
-        <title>Steering Column, Nexteer Automotive</title>
-        <description>&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-&lt;div style=&quot;text-align: justify&quot;&gt;
-&lt;b&gt;Student Incharge :&lt;/b&gt; Himal Agrawal
-&lt;br /&gt;
-&lt;b&gt;Project Supervisor :&lt;/b&gt; Mike Bogdanor
-&lt;br /&gt;
-&lt;br /&gt;
-
-
-
-&lt;b&gt;Abstract :&lt;/b&gt;  The work aimed at developing new composite steering columns that take advantage of the favorable stiffness-to-weight ratio of carbon fiber composites to deliver enhanced performance. The first phase involved the homogenization of material properties for laminate consisting layers of unidirectional pultrusion material, continuous filament mat and biaxial carbon fabric. A sensitivity study was then done to find the change in natural frequencies as a function of pultruded angle, thickness and different material properties using Abaqus. A python code coupled with Abaqus was developed to automate the process of changing material properties and writing required results to a user specified file eliminating the use of graphical user interface and manual labor.
-&lt;br /&gt;
-&lt;br /&gt;
- &lt;ul&gt;
-  &lt;li&gt;Initially performed natural frequency analysis using Abaqus for provided original model using Abaqus without composites to find first 3 natural frequencies&lt;/li&gt;
-  &lt;li&gt;Fixed the errors in the Abaqus model for successfully finding the natural frequencies of the column&lt;/li&gt;
-  &lt;li&gt;Found the homogenized material properties for laminates consisting of pultrusion layer, continuous filament mat and biaxial carbon fabric using classical laminate plate theory&lt;/li&gt;
-  &lt;li&gt;Used the material properties in Abaqus model to find the change in natural frequencies with change in material properties&lt;/li&gt;
-  &lt;li&gt;Performed a sensitivity study to study change in natural frequencies as a function of different material properties and analyzing the part having the maximum effect&lt;/li&gt;
-  &lt;li&gt;The work was automated using Python coding coupled with Abaqus which made necessary changes to the Abaqus input file, ran the simulations, extracted the results and wrote them to a specific file without the need of graphical user interface and manual labor&lt;/li&gt;
-&lt;/ul&gt; 
-
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt; Project Videos :&lt;/b&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;div align=&quot;center&quot;&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/sktnC-ZgR7U&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt;Video 1 : &lt;/b&gt;1st Natural Frequency&lt;/p&gt;
-
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/f_pYAG4IFmY&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt;Video 2 : &lt;/b&gt;2nd Natural Frequency&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/7JmLGNPLfLA&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt;Video 3 : &lt;/b&gt;3rd Natural Frequency&lt;/p&gt;
-
-&lt;/div&gt;
-
-&lt;/div&gt;
-</description>
-        <pubDate>Tue, 15 Jul 2014 00:00:00 -0400</pubDate>
-        <link>/web%20development/2014/07/15/nexteer/</link>
-        <guid isPermaLink="true">/web%20development/2014/07/15/nexteer/</guid>
         
         
         <category>Web Development</category>
@@ -873,6 +698,82 @@ The final project of the course included implementing the PID cruise control alg
         <pubDate>Tue, 08 Jul 2014 00:00:00 -0400</pubDate>
         <link>/web%20development/2014/07/08/cruise/</link>
         <guid isPermaLink="true">/web%20development/2014/07/08/cruise/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Programming</title>
+        <description>&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align: justify&quot;&gt;
+
+
+
+&lt;b&gt;Programming :&lt;/b&gt;  Skilled with programming languages C, MATLAB and Python. Completed the python course offered by Purdue University to earn a certification. Familiar with the python concepts of functions, lists, tuples, sets, dictionaries, regular expression, matplotlib, class and inheritance, NumPy and Pandas. 
+&lt;br /&gt;
+Passionate about evolving technologies like machine learning and completed Machine Learning course offered by Coursera to obtain 100% grade. Gained knowledge and programming skills in the following mentioned areas.
+&lt;br /&gt;
+&lt;br /&gt;
+ &lt;ul&gt;
+  &lt;li&gt;Linear and Logistic Regression&lt;/li&gt;
+  &lt;li&gt;Multi class classification&lt;/li&gt;
+  &lt;li&gt;Neural network – Forward propagation and backpropagation&lt;/li&gt;
+  &lt;li&gt;Regularized regression and Bias vs Variance&lt;/li&gt;
+  &lt;li&gt;Support Vector Machines&lt;/li&gt;
+  &lt;li&gt;K-means Clustering and Principal Component Analysis&lt;/li&gt;
+  &lt;li&gt;Anomaly Detection and Recommender Systems&lt;/li&gt;
+&lt;/ul&gt; 
+&lt;br /&gt;
+Currently exploring deep learning as time permits.
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 07 Jul 2014 00:00:00 -0400</pubDate>
+        <link>/web%20development/2014/07/07/programming/</link>
+        <guid isPermaLink="true">/web%20development/2014/07/07/programming/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Awards and Skills</title>
+        <description>&lt;div style=&quot;text-align: justify&quot;&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+
+&lt;b&gt; Honours and Awards :&lt;/b&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+ &lt;ul&gt;
+  &lt;li&gt;Awarded Engineering Excellence Award, ANSYS Hall of Fame 2017, ANSYS Inc.&lt;/li&gt;
+  &lt;li&gt;Awarded $3500 as Winner of ASME Innovative Design Simulation Challenge 2016&lt;/li&gt;
+  &lt;li&gt;Awarded $1500 as Winner of IET India Scholarship 2016&lt;/li&gt;
+  &lt;li&gt;Finalist, KPIT SPARKLE India Innovation contest 2016&lt;/li&gt;
+  &lt;li&gt;Awarded $300 as Regional Runner-up of IET India Scholarship 2015&lt;/li&gt;
+&lt;/ul&gt; 
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Skills :&lt;/b&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+ &lt;ul&gt;
+  &lt;li&gt;CAD - CATIA V5, Solidworks, Rhino&lt;/li&gt;
+  &lt;li&gt;Analysis - Abaqus (Static Structural, Thermal, Modal, Contact, Anisotropic), Hypermesh, Ansys, Moldex3D, MSC Digimat&lt;/li&gt;
+  &lt;li&gt;Programming Languages - C, Python, MATLAB&lt;/li&gt;
+  &lt;li&gt;Processes - CNC Milling, Injection &amp;amp; Compression Molding, Coordinate Measuring Machine (CMM), Robotics, Waterjet&lt;/li&gt;
+  &lt;li&gt;Design - DFM, SPC, DFA, DOE, GD&amp;amp;T, Root Cause Analysis&lt;/li&gt;
+&lt;/ul&gt; 
+
+
+&lt;/div&gt;
+</description>
+        <pubDate>Sun, 06 Jul 2014 00:00:00 -0400</pubDate>
+        <link>/web%20development/2014/07/06/misc/</link>
+        <guid isPermaLink="true">/web%20development/2014/07/06/misc/</guid>
         
         
         <category>Web Development</category>

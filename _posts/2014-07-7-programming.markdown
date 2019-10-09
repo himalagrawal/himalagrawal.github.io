@@ -32,7 +32,6 @@ Passionate about evolving technologies like machine learning and completed Machi
   <li>Neural network – Forward propagation and backpropagation</li>
   <li>Regularized regression and Bias vs Variance</li>
   <li>Support Vector Machines</li>
-  <li>Percolation and transverse squeeze flow</li>
   <li>K-means Clustering and Principal Component Analysis</li>
   <li>Anomaly Detection and Recommender Systems</li>
 </ul> 
