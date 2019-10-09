@@ -1,13 +1,13 @@
 ---
 title: Programming
 heading: Programming
-subtitle: Coding
+subtitle: 
 layout: default
 modal-id: 12
 date: 2014-07-7
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
-alt: image-alt
+img: 
+thumbnail: programming.png
+alt: Brief Summary
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development

@@ -5,7 +5,7 @@ subtitle: Mechanical Design
 layout: default
 modal-id: 7
 date: 2014-07-12
-img: roundicons.png
+img: characterization.png
 thumbnail: characterization-thumbnail.png
 alt: image-alt
 project-date: April 2014

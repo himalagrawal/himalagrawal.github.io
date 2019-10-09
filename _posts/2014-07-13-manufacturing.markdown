@@ -5,7 +5,7 @@ subtitle: Mechanical Design
 layout: default
 modal-id: 6
 date: 2014-07-13
-img: roundicons.png
+img: manufacturing.png
 thumbnail: manufacturing-thumbnail.png
 alt: image-alt
 project-date: April 2014

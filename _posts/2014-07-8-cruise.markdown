@@ -5,7 +5,7 @@ subtitle: Electronics
 layout: default
 modal-id: 11
 date: 2014-07-8
-img: roundicons.png
+img: cruise.jpg
 thumbnail: cruise-thumbnail.jpg
 alt: image-alt
 project-date: April 2014

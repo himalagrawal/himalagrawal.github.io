@@ -5,7 +5,7 @@ subtitle: Mechanical Design
 layout: default
 modal-id: 9
 date: 2014-07-10
-img: roundicons.png
+img: fsw.png
 thumbnail: fsw-thumbnail.png
 alt: image-alt
 project-date: April 2014

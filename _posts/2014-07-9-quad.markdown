@@ -5,7 +5,7 @@ subtitle: Electronics
 layout: default
 modal-id: 10
 date: 2014-07-9
-img: roundicons.png
+img: quad.png
 thumbnail: quad-thumbnail.jpg
 alt: image-alt
 project-date: April 2014
