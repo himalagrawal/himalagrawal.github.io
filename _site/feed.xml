@@ -5,8 +5,8 @@
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 08 Oct 2019 18:54:32 -0400</pubDate>
-    <lastBuildDate>Tue, 08 Oct 2019 18:54:32 -0400</lastBuildDate>
+    <pubDate>Tue, 08 Oct 2019 21:44:51 -0400</pubDate>
+    <lastBuildDate>Tue, 08 Oct 2019 21:44:51 -0400</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -757,7 +757,7 @@ Outcomes of the project:
       </item>
     
       <item>
-        <title>Quadcopter</title>
+        <title>Surveillance using Quadcopter</title>
         <description>&lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 &lt;div style=&quot;text-align: justify&quot;&gt;
@@ -811,7 +811,7 @@ The quadcopter was fully functional and performed facial recognition for require
       </item>
     
       <item>
-        <title>Cruise Control</title>
+        <title>Implementing Cruise Control</title>
         <description>&lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 &lt;div style=&quot;text-align: justify&quot;&gt;

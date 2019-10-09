@@ -1,12 +1,12 @@
 ---
-title: Quadcopter
+title: Surveillance using Quadcopter
 heading: Building a quadcopter for surveillance purposes using facial recognition
 subtitle: Electronics
 layout: default
 modal-id: 10
 date: 2014-07-9
 img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+thumbnail: quad-thumbnail.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
