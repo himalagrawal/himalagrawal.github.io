@@ -4,14 +4,14 @@ baseurl:
 # Site settings
 title: Himal Agrawal
 email: himalagrawal@gmail.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Portfolio website - Himal Agrawal"
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Adventure Sports
   pic: 1
-  position: Lead Designer
+  position: Adventure Sports
   social:
     - title: twitter
       url: #
@@ -20,9 +20,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Weight Lifting
   pic: 2
-  position: Lead Marketer
+  position: Weight Lifting
   social:
     - title: twitter
       url: #
@@ -31,9 +31,9 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Travelling
   pic: 3
-  position: Lead Developer
+  position: Travelling
   social:
     - title: twitter
       url: #
@@ -57,8 +57,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 2250 Yeager Rd, Apt 20-1
+  - line: West Lafayette, IN, 47906
 
 # Build settings
 markdown: kramdown

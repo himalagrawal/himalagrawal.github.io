@@ -1,6 +1,6 @@
 ---
-title: Composite Control Arm, Ford Motors
-heading: Design of composite lower control arm for Ford Motors
+title: Composite Control Arm, DuPont
+heading: Design of composite lower control arm 
 subtitle: Mechanical Design
 layout: default
 modal-id: 3
@@ -24,7 +24,7 @@ description:
 <br>
 
 
-<b>Abstract :</b> The project aimed at designing, simulating and manufacturing front lower composite control arm for Ford Motors using compression molding to take advantage of high strength-to-weight ratio of composite materials. A control arm is a hinged suspension link between the chassis and the suspension upright or hub that carries the wheel. The raw material was made by combining two existing advance technologies named Rapid Fabric Formation (RFF) from DuPont and Fibrflex from Fibrtec by the respective companies and offered high flexibility and drapibility for a thermoplastic resin formulation. Transversely isotropic properties for the raw material were determined using experimental tests to populate the material card and further used in Abaqus simulations. Structural simulations were then performed with composite layup using Abaqus for given load cases to satisfy the stiffness requirements. Changes in the geometry were made along with change in composite laminate orientations to study the effect of material orientation and geometric design.
+<b>Abstract :</b> The project aimed at designing, simulating and manufacturing front lower composite control arm using compression molding to take advantage of high strength-to-weight ratio of composite materials. A control arm is a hinged suspension link between the chassis and the suspension upright or hub that carries the wheel. The raw material was made by combining two existing advance technologies named Rapid Fabric Formation (RFF) from DuPont and Fibrflex from Fibrtec by the respective companies and offered high flexibility and drapibility for a thermoplastic resin formulation. Transversely isotropic properties for the raw material were determined using experimental tests to populate the material card and further used in Abaqus simulations. Structural simulations were then performed with composite layup using Abaqus for given load cases to satisfy the stiffness requirements. Changes in the geometry were made along with change in composite laminate orientations to study the effect of material orientation and geometric design.
 <br>
 <br>
 <b> Brief Summary :</b>
@@ -33,7 +33,7 @@ description:
   <li>Used MTS machine for loading specimens along with strain gauges and Digital Image Correlation (DIC) to measure strains</li>
   <li>Analyzed the interpreted the machine data using Python programming language for different material properties</li>
   <li>Used the material properties as input for composite laminate simulations using Abaqus</li>
-  <li>Studied the effect of change on geometry and material orientations on stresses and strains using Abaqus</li>
+  <li>Studied the effect of change of geometry and material orientations on stresses and strains using Abaqus</li>
   <li>Performed preliminary compression molding experiments using the proprietary material system</li>
 
 </ul>
@@ -71,7 +71,7 @@ description:
 <p class="text-muted" align = "center"> <b> Fig 7. </b>Fixture for performing IITRI compression test </p>
 
 <img src="img/portfolio/ford/testing/9.jpg" class="img-responsive img-centered" alt="Ford Image 9">
-<p class="text-muted" align = "center"> <b> Fig 8. </b>Strain gauges samples for compression test for measuring compressive modulus </p>
+<p class="text-muted" align = "center"> <b> Fig 8. </b>Strain gauged samples for compression test for measuring compressive modulus </p>
 
 <img src="img/portfolio/ford/testing/10.jpg" class="img-responsive img-centered" alt="Ford Image 10">
 <p class="text-muted" align = "center"> <b> Fig 9. </b>Shear failure in compression test specimens</p>

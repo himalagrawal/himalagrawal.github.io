@@ -63,7 +63,7 @@ description:
 <p class="text-muted" align = "center"><b> Fig 6.</b> Experimental data for degree of cure as a function of temperature and time </p>
 
 <img src="img/portfolio/manufacturing/7.png" class="img-responsive img-centered" alt="Manufacturing Image 7">
-<p class="text-muted" align = "center"><b> Fig 7.</b> Rheometer to calulate viscosity as a function of temperature and shear rate </p>
+<p class="text-muted" align = "center"><b> Fig 7.</b> Rheometer to calulate viscosity as a function of temperature, time and shear rate </p>
 
 <img src="img/portfolio/manufacturing/8.png" class="img-responsive img-centered" alt="Manufacturing Image 8">
 <p class="text-muted" align = "center"><b> Fig 8.</b> Experimental data for viscosity as a function of time for different temperatures</p>

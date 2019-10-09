@@ -28,7 +28,7 @@ description:
   <li>Microscopy</li>
   <li>Directional tensile testing</li>
   <li>In plane shear and off axis tensile strength</li>
-  <li>CTE of lamina and Laminates</li>
+  <li>CTE of lamina and laminates</li>
   <li>Open Hole Tension</li>
   <li>Mode I and Mode II fracture toughness</li>
   <li>Free edge effects</li>
@@ -58,7 +58,7 @@ description:
 <p class="text-muted" align = "center"><b> Fig 4.</b> Prepared and tested samples for orientation 90, Strain calculated using DIC and strain gauge</p>
 
 <img src="img/portfolio/characterization/5.png" class="img-responsive img-centered" alt="Characterization Image 5">
-<p class="text-muted" align = "center"><b> Fig 5.</b> Analyzed stress-strain curve for transverse loading from load data by MTS and strain DIC</p>
+<p class="text-muted" align = "center"><b> Fig 5.</b> Analyzed stress-strain curve for transverse loading from load data by MTS and strain by DIC</p>
 
 <img src="img/portfolio/characterization/6.png" class="img-responsive img-centered" alt="Characterization Image 6">
 <p class="text-muted" align = "center"><b> Fig 6.</b> Prepared samples for measuring shear modulus with strain gauges </p>
@@ -70,7 +70,7 @@ description:
 <p class="text-muted" align = "center"><b> Fig 8.</b> Samples for off axis tensile testing to characterize strength as function of fiber orientation </p>
 
 <img src="img/portfolio/characterization/9.png" class="img-responsive img-centered" alt="Characterization Image 9">
-<p class="text-muted" align = "center"><b> Fig 9.</b> Experimental strength and predicted strength as function of fiber orientation for differnt theories </p>
+<p class="text-muted" align = "center"><b> Fig 9.</b> Experimental strength and predicted strength as function of fiber orientation for different theories </p>
 
 <img src="img/portfolio/characterization/10.png" class="img-responsive img-centered" alt="Characterization Image 10">
 <p class="text-muted" align = "center"><b> Fig 10.</b> Correlation of experimentally measured displacements from DIC with theoretical results</p>

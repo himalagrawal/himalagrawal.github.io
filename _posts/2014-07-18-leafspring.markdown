@@ -1,5 +1,5 @@
 ---
-title: Composite leaf spring, Ford Motors
+title: Composite leaf spring
 heading: Manufacturing and Testing of Hybrid Composite Leaf Spring
 subtitle: Mechanical Design
 layout: default
@@ -33,9 +33,9 @@ of the vehicle to support weight and provide shock absorbing capacity of the veh
 <ul>
   <li>Developed testing fixtures in house using lathe, CNC milling and waterjet for prototype hybrid leaf spring</li>
   <li>Developed composite layup tool using 5-axis CNC and manufactured glass fiber epoxy composite leaf using autoclave </li>
-  <li>Performed fatigue testing for different load cases and analysed experumental data from load cell and strain gauges</li>
+  <li>Performed fatigue testing for different load cases and analysed experimental data from load cell and strain gauges</li>
   <li>The composite leaf spring was lighter by 35% and withstood 1 million cycles without failure</li>
-  <li>Designed tests for small scale fatigue testing as a function of aspect ratio of flexure samples </li>
+  <li>Designed tests for small scale fatigue testing as a function of aspect ratio of flexure samples to expedite testing</li>
   <li>Explored the fatigue properties of composite beams as a function of aspect ration to characterize shear and bending failure</li>
 
 </ul>
@@ -78,7 +78,7 @@ of the vehicle to support weight and provide shock absorbing capacity of the veh
 <p class="text-muted" align = "center"> <b> Fig 9. </b>Extreme deflection of composite leaf spring to check strength</p>
 
 <img src="img/portfolio/leafspring/10.png" class="img-responsive img-centered" alt="Thesis Image 10">
-<p class="text-muted" align = "center"> <b> Fig 10. </b>Experimental attachment of strain gauges to composite leaf spring</p>
+<p class="text-muted" align = "center"> <b> Fig 10. </b>Experimental location of strain gauges (red) to composite leaf spring</p>
 
 <img src="img/portfolio/leafspring/11.png" class="img-responsive img-centered" alt="Thesis Image 11">
 <p class="text-muted" align = "center"> <b> Fig 11. </b>Small scale flexure testing as function of aspect ratio to speed up testing</p>

@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Himal Agrawal</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
+    <description>Portfolio website - Himal Agrawal</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 09 Oct 2019 14:30:41 -0400</pubDate>
-    <lastBuildDate>Wed, 09 Oct 2019 14:30:41 -0400</lastBuildDate>
+    <pubDate>Wed, 09 Oct 2019 18:29:39 -0400</pubDate>
+    <lastBuildDate>Wed, 09 Oct 2019 18:29:39 -0400</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
-        <title>Composite leaf spring, Ford Motors</title>
+        <title>Composite leaf spring</title>
         <description>&lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 &lt;div style=&quot;text-align: justify&quot;&gt;
@@ -28,9 +28,9 @@ of the vehicle to support weight and provide shock absorbing capacity of the veh
 &lt;ul&gt;
   &lt;li&gt;Developed testing fixtures in house using lathe, CNC milling and waterjet for prototype hybrid leaf spring&lt;/li&gt;
   &lt;li&gt;Developed composite layup tool using 5-axis CNC and manufactured glass fiber epoxy composite leaf using autoclave &lt;/li&gt;
-  &lt;li&gt;Performed fatigue testing for different load cases and analysed experumental data from load cell and strain gauges&lt;/li&gt;
+  &lt;li&gt;Performed fatigue testing for different load cases and analysed experimental data from load cell and strain gauges&lt;/li&gt;
   &lt;li&gt;The composite leaf spring was lighter by 35% and withstood 1 million cycles without failure&lt;/li&gt;
-  &lt;li&gt;Designed tests for small scale fatigue testing as a function of aspect ratio of flexure samples &lt;/li&gt;
+  &lt;li&gt;Designed tests for small scale fatigue testing as a function of aspect ratio of flexure samples to expedite testing&lt;/li&gt;
   &lt;li&gt;Explored the fatigue properties of composite beams as a function of aspect ration to characterize shear and bending failure&lt;/li&gt;
 
 &lt;/ul&gt;
@@ -73,7 +73,7 @@ of the vehicle to support weight and provide shock absorbing capacity of the veh
 &lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 9. &lt;/b&gt;Extreme deflection of composite leaf spring to check strength&lt;/p&gt;
 
 &lt;img src=&quot;img/portfolio/leafspring/10.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Thesis Image 10&quot; /&gt;
-&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 10. &lt;/b&gt;Experimental attachment of strain gauges to composite leaf spring&lt;/p&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 10. &lt;/b&gt;Experimental location of strain gauges (red) to composite leaf spring&lt;/p&gt;
 
 &lt;img src=&quot;img/portfolio/leafspring/11.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Thesis Image 11&quot; /&gt;
 &lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 11. &lt;/b&gt;Small scale flexure testing as function of aspect ratio to speed up testing&lt;/p&gt;
@@ -110,7 +110,7 @@ of the vehicle to support weight and provide shock absorbing capacity of the veh
       </item>
     
       <item>
-        <title>Composite Control Arm, Ford Motors</title>
+        <title>Composite Control Arm, DuPont</title>
         <description>&lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 &lt;div style=&quot;text-align: justify&quot;&gt;
@@ -121,7 +121,7 @@ of the vehicle to support weight and provide shock absorbing capacity of the veh
 &lt;br /&gt;
 
 
-&lt;b&gt;Abstract :&lt;/b&gt; The project aimed at designing, simulating and manufacturing front lower composite control arm for Ford Motors using compression molding to take advantage of high strength-to-weight ratio of composite materials. A control arm is a hinged suspension link between the chassis and the suspension upright or hub that carries the wheel. The raw material was made by combining two existing advance technologies named Rapid Fabric Formation (RFF) from DuPont and Fibrflex from Fibrtec by the respective companies and offered high flexibility and drapibility for a thermoplastic resin formulation. Transversely isotropic properties for the raw material were determined using experimental tests to populate the material card and further used in Abaqus simulations. Structural simulations were then performed with composite layup using Abaqus for given load cases to satisfy the stiffness requirements. Changes in the geometry were made along with change in composite laminate orientations to study the effect of material orientation and geometric design.
+&lt;b&gt;Abstract :&lt;/b&gt; The project aimed at designing, simulating and manufacturing front lower composite control arm using compression molding to take advantage of high strength-to-weight ratio of composite materials. A control arm is a hinged suspension link between the chassis and the suspension upright or hub that carries the wheel. The raw material was made by combining two existing advance technologies named Rapid Fabric Formation (RFF) from DuPont and Fibrflex from Fibrtec by the respective companies and offered high flexibility and drapibility for a thermoplastic resin formulation. Transversely isotropic properties for the raw material were determined using experimental tests to populate the material card and further used in Abaqus simulations. Structural simulations were then performed with composite layup using Abaqus for given load cases to satisfy the stiffness requirements. Changes in the geometry were made along with change in composite laminate orientations to study the effect of material orientation and geometric design.
 &lt;br /&gt;
 &lt;br /&gt;
 &lt;b&gt; Brief Summary :&lt;/b&gt;
@@ -130,7 +130,7 @@ of the vehicle to support weight and provide shock absorbing capacity of the veh
   &lt;li&gt;Used MTS machine for loading specimens along with strain gauges and Digital Image Correlation (DIC) to measure strains&lt;/li&gt;
   &lt;li&gt;Analyzed the interpreted the machine data using Python programming language for different material properties&lt;/li&gt;
   &lt;li&gt;Used the material properties as input for composite laminate simulations using Abaqus&lt;/li&gt;
-  &lt;li&gt;Studied the effect of change on geometry and material orientations on stresses and strains using Abaqus&lt;/li&gt;
+  &lt;li&gt;Studied the effect of change of geometry and material orientations on stresses and strains using Abaqus&lt;/li&gt;
   &lt;li&gt;Performed preliminary compression molding experiments using the proprietary material system&lt;/li&gt;
 
 &lt;/ul&gt;
@@ -168,7 +168,7 @@ of the vehicle to support weight and provide shock absorbing capacity of the veh
 &lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 7. &lt;/b&gt;Fixture for performing IITRI compression test &lt;/p&gt;
 
 &lt;img src=&quot;img/portfolio/ford/testing/9.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Ford Image 9&quot; /&gt;
-&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 8. &lt;/b&gt;Strain gauges samples for compression test for measuring compressive modulus &lt;/p&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 8. &lt;/b&gt;Strain gauged samples for compression test for measuring compressive modulus &lt;/p&gt;
 
 &lt;img src=&quot;img/portfolio/ford/testing/10.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Ford Image 10&quot; /&gt;
 &lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 9. &lt;/b&gt;Shear failure in compression test specimens&lt;/p&gt;
@@ -269,7 +269,7 @@ of the vehicle to support weight and provide shock absorbing capacity of the veh
 &lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 6.&lt;/b&gt; Experimental data for degree of cure as a function of temperature and time &lt;/p&gt;
 
 &lt;img src=&quot;img/portfolio/manufacturing/7.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Manufacturing Image 7&quot; /&gt;
-&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 7.&lt;/b&gt; Rheometer to calulate viscosity as a function of temperature and shear rate &lt;/p&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 7.&lt;/b&gt; Rheometer to calulate viscosity as a function of temperature, time and shear rate &lt;/p&gt;
 
 &lt;img src=&quot;img/portfolio/manufacturing/8.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Manufacturing Image 8&quot; /&gt;
 &lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 8.&lt;/b&gt; Experimental data for viscosity as a function of time for different temperatures&lt;/p&gt;
@@ -356,7 +356,7 @@ of the vehicle to support weight and provide shock absorbing capacity of the veh
   &lt;li&gt;Microscopy&lt;/li&gt;
   &lt;li&gt;Directional tensile testing&lt;/li&gt;
   &lt;li&gt;In plane shear and off axis tensile strength&lt;/li&gt;
-  &lt;li&gt;CTE of lamina and Laminates&lt;/li&gt;
+  &lt;li&gt;CTE of lamina and laminates&lt;/li&gt;
   &lt;li&gt;Open Hole Tension&lt;/li&gt;
   &lt;li&gt;Mode I and Mode II fracture toughness&lt;/li&gt;
   &lt;li&gt;Free edge effects&lt;/li&gt;
@@ -386,7 +386,7 @@ of the vehicle to support weight and provide shock absorbing capacity of the veh
 &lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 4.&lt;/b&gt; Prepared and tested samples for orientation 90, Strain calculated using DIC and strain gauge&lt;/p&gt;
 
 &lt;img src=&quot;img/portfolio/characterization/5.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Characterization Image 5&quot; /&gt;
-&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 5.&lt;/b&gt; Analyzed stress-strain curve for transverse loading from load data by MTS and strain DIC&lt;/p&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 5.&lt;/b&gt; Analyzed stress-strain curve for transverse loading from load data by MTS and strain by DIC&lt;/p&gt;
 
 &lt;img src=&quot;img/portfolio/characterization/6.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Characterization Image 6&quot; /&gt;
 &lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 6.&lt;/b&gt; Prepared samples for measuring shear modulus with strain gauges &lt;/p&gt;
@@ -398,7 +398,7 @@ of the vehicle to support weight and provide shock absorbing capacity of the veh
 &lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 8.&lt;/b&gt; Samples for off axis tensile testing to characterize strength as function of fiber orientation &lt;/p&gt;
 
 &lt;img src=&quot;img/portfolio/characterization/9.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Characterization Image 9&quot; /&gt;
-&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 9.&lt;/b&gt; Experimental strength and predicted strength as function of fiber orientation for differnt theories &lt;/p&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 9.&lt;/b&gt; Experimental strength and predicted strength as function of fiber orientation for different theories &lt;/p&gt;
 
 &lt;img src=&quot;img/portfolio/characterization/10.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Characterization Image 10&quot; /&gt;
 &lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Fig 10.&lt;/b&gt; Correlation of experimentally measured displacements from DIC with theoretical results&lt;/p&gt;
@@ -468,6 +468,36 @@ of the vehicle to support weight and provide shock absorbing capacity of the veh
       </item>
     
       <item>
+        <title>Outline of Confidential Projects</title>
+        <description>&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align: justify&quot;&gt;
+
+
+
+
+Due to the signing of an agreement with certain automotive companies photos and files of the projects cannot be shared on a public platform. A brief description of the projects is as follows.
+&lt;br /&gt;
+&lt;br /&gt;
+ &lt;ul&gt;
+  &lt;li&gt;A cast iron rotating object was redesigned for injection molding to reduce weight with same structural rigidity. Geometric modifications were done to obtain the same stiffness with glass fiber reinforced injection molding. Injection molding simulations were then done to study the effect of fiber orientation on the strength of the part.&lt;/li&gt;
+&lt;br /&gt;
+  &lt;li&gt;A steering column was designed using composites and the effect of material orientation and properties on the natural frequency of the part was studied using Abaqus.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;/div&gt;
+</description>
+        <pubDate>Fri, 11 Jul 2014 00:00:00 -0400</pubDate>
+        <link>/web%20development/2014/07/11/zconfidential/</link>
+        <guid isPermaLink="true">/web%20development/2014/07/11/zconfidential/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
         <title>Formula Student Team, IIT Kharagpur</title>
         <description>&lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
@@ -530,13 +560,13 @@ The work involved studying the existing technologies available and modifying to 
 
 
 
-&lt;b&gt;Project Details :&lt;/b&gt;  Friction stir welding is a solid state joining process that uses frictional heat generated by a rotating tool to join materials. The tool is non-consumable and rotates while rubbing against different pieces of materials which causes the frictional heat to soften the materials and the rotation of the tool mixes the materials resulting in joining or welding when cooled. It is a high strain rate complex deformation process and in the study the process was studies as a CFD phenomenon to predict heat generation and temperature distribution with high viscosity fluid as a function of strain rate. The viscosity of the fluid around the tool was low due to high strain rate and helps in visualization of material mixing. The results obtained by the simulation were experimentally validated from the temperature data obtained from the thermocouple. 
+&lt;b&gt;Project Details :&lt;/b&gt;  Friction stir welding is a solid state joining process that uses frictional heat generated by a rotating tool to join materials. The tool is non-consumable and rotates while rubbing against different pieces of materials which causes the frictional heat to soften the materials and the rotation of the tool mixes the materials resulting in joining or welding when cooled. It is a high strain rate complex deformation process and in the study the process was studied as a CFD phenomenon to predict heat generation and temperature distribution with high viscosity fluid as a function of strain rate. The viscosity of the fluid around the tool was low due to high strain rate and helps in visualization of material mixing. The results obtained by the simulation were experimentally validated from the temperature data obtained from the thermocouple. 
 &lt;br /&gt;
 &lt;br /&gt;
 Outcomes of the project:
 &lt;br /&gt;
  &lt;ul&gt;
-  &lt;li&gt;Successfully modelled friction stir welding with 95% accuracy compared to experimental results&lt;/li&gt;
+  &lt;li&gt;Successfully modelled friction stir welding with 95% accuracy compared to experimental temperature results&lt;/li&gt;
   &lt;li&gt;The work was selected to be presented at IDETC/CIE conference as a part of “Innovative Design Simulation Challenge” organized by ASME and was awarded $3500 in the category “Best Utility in Commercial Category”
 &lt;/li&gt;
 &lt;/ul&gt; 
@@ -560,10 +590,10 @@ Outcomes of the project:
 &lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 3. &lt;/b&gt;Numerical results for temperature distribution for 1200 rpm&lt;/p&gt;
 
 &lt;img src=&quot;img/portfolio/fsw/4.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;FSW Image 4&quot; /&gt;
-&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 4. &lt;/b&gt;Cross-sectional view of temperature distribution at 1200 rpm&lt;/p&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 4. &lt;/b&gt;Shoulder and Pin bottom heat flux distribution&lt;/p&gt;
 
 &lt;img src=&quot;img/portfolio/fsw/5.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;FSW Image 5&quot; /&gt;
-&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 5. &lt;/b&gt;Shoulder and Pin bottom heat flux distribution&lt;/p&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 5. &lt;/b&gt;Velocity distribution perpendicular to welding direction&lt;/p&gt;
 
 &lt;img src=&quot;img/portfolio/fsw/6.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;FSW Image 6&quot; /&gt;
 &lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 6. &lt;/b&gt;Strain rate distribution for various rotational speed at 60 mm/min (a) 900 rpm (b) 1200 rpm (c) 1500 rpm &lt;/p&gt;
@@ -597,7 +627,7 @@ Outcomes of the project:
 &lt;b&gt;Project Details :&lt;/b&gt;  The purpose of the class project was to develop a remotely controlled aerial vehicle to perform facial recognition. The prototype developed was fully functional and used a transmitter to relay live video feed on laptop which is used to perform facial recognition in real time. 
 &lt;br /&gt;
 &lt;br /&gt;
-The first step included was to design the quadcopter and select the required electronic components. A custom frame was manufactured by designing in CATIA and then using layup of carbon fiber fabric and oven curing and then cutting the required geometry using a waterjet. After performing required background research on quadcopters and available technology EMAX 2300 KV motors, BLHeli 32 bit electronic speed controllers (ESC), Naze32 flight controller, power distribution board, battery, transmitter and camera were chosen. This required analysis of the total weight of the quadcopter to ensure the thrust provided by the motors would be sufficient. Additionally, the power draw of the motors was considered to ensure the battery could support a long enough flight time.
+The first step included was to design the quadcopter and select the required electronic components. A custom frame was manufactured by designing in CATIA followed by carbon fiber prepreg layup and oven curing and finally cutting the required geometry using a waterjet. After performing required background research on quadcopters and available technology EMAX 2300 KV motors, BLHeli 32 bit electronic speed controllers (ESC), Naze32 flight controller, power distribution board, battery, transmitter and camera were chosen. This required analysis of the total weight of the quadcopter to ensure the thrust provided by the motors would be sufficient. Additionally, the power draw of the motors was considered to ensure the battery could support a long enough flight time.
 &lt;br /&gt;
 &lt;br /&gt;
 The components were integrated together with correct wiring and attached with the frame. The microcontroller which acts like a brain for the quadcopter was configured to calibrate the motor, configure the transmitter settings and PID tuning. In parallel to creating the quadcopter, the code for facial recognition was developed using the open source resources like openCV. The code was put together to analyze a live video feed and perform facial recognition. From a set of still photos the code was trained to recognize the people for which it was trained. 
@@ -658,7 +688,7 @@ The quadcopter was fully functional and performed facial recognition for require
   &lt;li&gt;Subroutines using assembly language and C&lt;/li&gt;
   &lt;li&gt;Programming peripherals using assembly language and C&lt;/li&gt;
   &lt;li&gt;Programming GPIO using assembly language and C&lt;/li&gt;
-  &lt;li&gt;erial communication (UART)&lt;/li&gt;
+  &lt;li&gt;Serial communication (UART)&lt;/li&gt;
   &lt;li&gt;Programming interrupts using assembly language and C&lt;/li&gt;
   &lt;li&gt;Timer interrupts&lt;/li&gt;
   &lt;li&gt;Mixed assembly language and C language programming&lt;/li&gt;
@@ -733,47 +763,6 @@ Currently exploring deep learning as time permits.
         <pubDate>Mon, 07 Jul 2014 00:00:00 -0400</pubDate>
         <link>/web%20development/2014/07/07/programming/</link>
         <guid isPermaLink="true">/web%20development/2014/07/07/programming/</guid>
-        
-        
-        <category>Web Development</category>
-        
-      </item>
-    
-      <item>
-        <title>Awards and Skills</title>
-        <description>&lt;div style=&quot;text-align: justify&quot;&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-
-&lt;b&gt; Honours and Awards :&lt;/b&gt;
-&lt;br /&gt;
-&lt;br /&gt;
- &lt;ul&gt;
-  &lt;li&gt;Awarded Engineering Excellence Award, ANSYS Hall of Fame 2017, ANSYS Inc.&lt;/li&gt;
-  &lt;li&gt;Awarded $3500 as Winner of ASME Innovative Design Simulation Challenge 2016&lt;/li&gt;
-  &lt;li&gt;Awarded $1500 as Winner of IET India Scholarship 2016&lt;/li&gt;
-  &lt;li&gt;Finalist, KPIT SPARKLE India Innovation contest 2016&lt;/li&gt;
-  &lt;li&gt;Awarded $300 as Regional Runner-up of IET India Scholarship 2015&lt;/li&gt;
-&lt;/ul&gt; 
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Skills :&lt;/b&gt;
-&lt;br /&gt;
-&lt;br /&gt;
- &lt;ul&gt;
-  &lt;li&gt;CAD - CATIA V5, Solidworks, Rhino&lt;/li&gt;
-  &lt;li&gt;Analysis - Abaqus (Static Structural, Thermal, Modal, Contact, Anisotropic), Hypermesh, Ansys, Moldex3D, MSC Digimat&lt;/li&gt;
-  &lt;li&gt;Programming Languages - C, Python, MATLAB&lt;/li&gt;
-  &lt;li&gt;Processes - CNC Milling, Injection &amp;amp; Compression Molding, Coordinate Measuring Machine (CMM), Robotics, Waterjet&lt;/li&gt;
-  &lt;li&gt;Design - DFM, SPC, DFA, DOE, GD&amp;amp;T, Root Cause Analysis&lt;/li&gt;
-&lt;/ul&gt; 
-
-
-&lt;/div&gt;
-</description>
-        <pubDate>Sun, 06 Jul 2014 00:00:00 -0400</pubDate>
-        <link>/web%20development/2014/07/06/misc/</link>
-        <guid isPermaLink="true">/web%20development/2014/07/06/misc/</guid>
         
         
         <category>Web Development</category>

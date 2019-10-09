@@ -36,7 +36,7 @@ description:
   <li>Subroutines using assembly language and C</li>
   <li>Programming peripherals using assembly language and C</li>
   <li>Programming GPIO using assembly language and C</li>
-  <li>erial communication (UART)</li>
+  <li>Serial communication (UART)</li>
   <li>Programming interrupts using assembly language and C</li>
   <li>Timer interrupts</li>
   <li>Mixed assembly language and C language programming</li>
