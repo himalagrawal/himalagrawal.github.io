@@ -5,8 +5,8 @@
     <description>Portfolio website - Himal Agrawal</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 10 Oct 2019 10:53:06 -0400</pubDate>
-    <lastBuildDate>Thu, 10 Oct 2019 10:53:06 -0400</lastBuildDate>
+    <pubDate>Thu, 10 Oct 2019 14:45:33 -0400</pubDate>
+    <lastBuildDate>Thu, 10 Oct 2019 14:45:33 -0400</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -181,7 +181,6 @@ of the vehicle to support weight and provide shock absorbing capacity of the veh
 
 &lt;img src=&quot;img/portfolio/ford/testing/13.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Ford Image 13&quot; /&gt;
 &lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 12. &lt;/b&gt;Shear failure of specimens to calculate shear modulus&lt;/p&gt;
-
 
 &lt;img src=&quot;img/portfolio/ford/2.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Ford Image 15&quot; /&gt;
 &lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 13. &lt;/b&gt;CAD geometry for stamped control arm to be made using compression molding&lt;/p&gt;
@@ -536,9 +535,9 @@ The work involved studying the existing technologies available and modifying to 
 &lt;/div&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Fri, 11 Jul 2014 00:00:00 -0400</pubDate>
-        <link>/web%20development/2014/07/11/teamkart/</link>
-        <guid isPermaLink="true">/web%20development/2014/07/11/teamkart/</guid>
+        <pubDate>Thu, 10 Jul 2014 00:00:00 -0400</pubDate>
+        <link>/web%20development/2014/07/10/teamkart/</link>
+        <guid isPermaLink="true">/web%20development/2014/07/10/teamkart/</guid>
         
         
         <category>Web Development</category>
@@ -600,9 +599,9 @@ Outcomes of the project:
 &lt;/div&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Thu, 10 Jul 2014 00:00:00 -0400</pubDate>
-        <link>/web%20development/2014/07/10/fsw/</link>
-        <guid isPermaLink="true">/web%20development/2014/07/10/fsw/</guid>
+        <pubDate>Wed, 09 Jul 2014 00:00:00 -0400</pubDate>
+        <link>/web%20development/2014/07/09/fsw/</link>
+        <guid isPermaLink="true">/web%20development/2014/07/09/fsw/</guid>
         
         
         <category>Web Development</category>
@@ -654,9 +653,9 @@ The quadcopter was fully functional and performed facial recognition for require
 
 &lt;/div&gt;
 </description>
-        <pubDate>Wed, 09 Jul 2014 00:00:00 -0400</pubDate>
-        <link>/web%20development/2014/07/09/quad/</link>
-        <guid isPermaLink="true">/web%20development/2014/07/09/quad/</guid>
+        <pubDate>Tue, 08 Jul 2014 00:00:00 -0400</pubDate>
+        <link>/web%20development/2014/07/08/quad/</link>
+        <guid isPermaLink="true">/web%20development/2014/07/08/quad/</guid>
         
         
         <category>Web Development</category>
@@ -723,9 +722,9 @@ The final project of the course included implementing the PID cruise control alg
 &lt;/div&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Tue, 08 Jul 2014 00:00:00 -0400</pubDate>
-        <link>/web%20development/2014/07/08/cruise/</link>
-        <guid isPermaLink="true">/web%20development/2014/07/08/cruise/</guid>
+        <pubDate>Mon, 07 Jul 2014 00:00:00 -0400</pubDate>
+        <link>/web%20development/2014/07/07/cruise/</link>
+        <guid isPermaLink="true">/web%20development/2014/07/07/cruise/</guid>
         
         
         <category>Web Development</category>
@@ -758,9 +757,9 @@ Passionate about evolving technologies like machine learning and completed Machi
 Currently exploring deep learning as time permits.
 &lt;/div&gt;
 </description>
-        <pubDate>Mon, 07 Jul 2014 00:00:00 -0400</pubDate>
-        <link>/web%20development/2014/07/07/programming/</link>
-        <guid isPermaLink="true">/web%20development/2014/07/07/programming/</guid>
+        <pubDate>Sun, 06 Jul 2014 00:00:00 -0400</pubDate>
+        <link>/web%20development/2014/07/06/programming/</link>
+        <guid isPermaLink="true">/web%20development/2014/07/06/programming/</guid>
         
         
         <category>Web Development</category>

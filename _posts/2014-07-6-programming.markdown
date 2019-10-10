@@ -3,8 +3,8 @@ title: Programming
 heading: Programming
 subtitle: 
 layout: default
-modal-id: 12
-date: 2014-07-7
+modal-id: 13
+date: 2014-07-6
 img: 
 thumbnail: programming.png
 alt: Brief Summary

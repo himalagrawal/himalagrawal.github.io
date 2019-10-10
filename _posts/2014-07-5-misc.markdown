@@ -3,8 +3,8 @@ title: Awards and Skills
 heading: Awards and Skills
 subtitle:
 layout: default
-modal-id: 13
-date: 2014-07-6
+modal-id: 14
+date: 2014-07-5
 img: 
 thumbnail: awards.png
 alt: Brief Summary
