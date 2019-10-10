@@ -85,7 +85,6 @@ description:
 <img src="img/portfolio/ford/testing/13.jpg" class="img-responsive img-centered" alt="Ford Image 13">
 <p class="text-muted" align = "center"> <b> Fig 12. </b>Shear failure of specimens to calculate shear modulus</p>
 
-
 <img src="img/portfolio/ford/2.png" class="img-responsive img-centered" alt="Ford Image 15">
 <p class="text-muted" align = "center"> <b> Fig 13. </b>CAD geometry for stamped control arm to be made using compression molding</p>
 
