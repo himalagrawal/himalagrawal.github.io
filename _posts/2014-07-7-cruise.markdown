@@ -62,10 +62,10 @@ The final project of the course included implementing the PID cruise control alg
 <div class="col-md-6 col-md-offset-3">
 
 
-<img src="img/portfolio/cruise_control/1.jpg" class="img-responsive img-centered" alt="Cruise Control Image 1">
+<img src="img/portfolio/cruise/1.jpg" class="img-responsive img-centered" alt="Cruise Control Image 1">
 <p class="text-muted" align = "center"> <b> Fig 1. </b>Complete experimental setup including 4-stroke engine, air supply, air filter and regulator, microcontroller, motor and optical encoder</p>
 
-<img src="img/portfolio/cruise_control/2.jpg" class="img-responsive img-centered" alt="Cruise Control Image 2">
+<img src="img/portfolio/cruise/2.jpg" class="img-responsive img-centered" alt="Cruise Control Image 2">
 <p class="text-muted" align = "center"> <b> Fig 2. </b>Model engine operated by air pressue with attached encoder to measure rotational rpm</p>
 
 
