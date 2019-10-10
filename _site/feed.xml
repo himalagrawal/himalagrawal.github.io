@@ -5,8 +5,8 @@
     <description>Portfolio website - Himal Agrawal</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 09 Oct 2019 18:29:39 -0400</pubDate>
-    <lastBuildDate>Wed, 09 Oct 2019 18:29:39 -0400</lastBuildDate>
+    <pubDate>Thu, 10 Oct 2019 10:43:35 -0400</pubDate>
+    <lastBuildDate>Thu, 10 Oct 2019 10:43:35 -0400</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -182,29 +182,27 @@ of the vehicle to support weight and provide shock absorbing capacity of the veh
 &lt;img src=&quot;img/portfolio/ford/testing/13.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Ford Image 13&quot; /&gt;
 &lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 12. &lt;/b&gt;Shear failure of specimens to calculate shear modulus&lt;/p&gt;
 
-&lt;img src=&quot;img/portfolio/ford/1.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Ford Image 14&quot; /&gt;
-&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 13. &lt;/b&gt;CAD assembly model of aluminum casted control arm&lt;/p&gt;
 
 &lt;img src=&quot;img/portfolio/ford/2.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Ford Image 15&quot; /&gt;
-&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 14. &lt;/b&gt;CAD geometry for stamped control arm to be made using compression molding&lt;/p&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 13. &lt;/b&gt;CAD geometry for stamped control arm to be made using compression molding&lt;/p&gt;
 
 &lt;img src=&quot;img/portfolio/ford/3.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Ford Image 16&quot; /&gt;
-&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 15. &lt;/b&gt;Process of formation of tow and fabric&lt;/p&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 14. &lt;/b&gt;Process of formation of tow and fabric&lt;/p&gt;
 
 &lt;img src=&quot;img/portfolio/ford/4.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Ford Image 16&quot; /&gt;
-&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 16. &lt;/b&gt;Assignment of principal directions for composite laminate simulation&lt;/p&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 15. &lt;/b&gt;Assignment of principal directions for composite laminate simulation&lt;/p&gt;
 
 &lt;img src=&quot;img/portfolio/ford/5.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Ford Image 16&quot; /&gt;
-&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 17. &lt;/b&gt; Displacement contours for bending and compression load cases of composite laminate&lt;/p&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 16. &lt;/b&gt; Displacement contours for bending and compression load cases of composite laminate&lt;/p&gt;
 
 &lt;img src=&quot;img/portfolio/ford/6.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Ford Image 16&quot; /&gt;
-&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 18. &lt;/b&gt;Modification of surfaces to reduce stress and displacement results&lt;/p&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 17. &lt;/b&gt;Modification of surfaces to reduce stress and displacement results&lt;/p&gt;
 
 &lt;img src=&quot;img/portfolio/ford/7.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Ford Image 16&quot; /&gt;
-&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 19. &lt;/b&gt;Geometric modification I &lt;/p&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 18. &lt;/b&gt;Geometric modification I &lt;/p&gt;
 
 &lt;img src=&quot;img/portfolio/ford/8.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Ford Image 16&quot; /&gt;
-&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 20. &lt;/b&gt;Geometric modification II&lt;/p&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 19. &lt;/b&gt;Geometric modification II&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;/div&gt;
@@ -480,9 +478,9 @@ Due to the signing of an agreement with certain automotive companies photos and 
 &lt;br /&gt;
 &lt;br /&gt;
  &lt;ul&gt;
-  &lt;li&gt;A cast iron rotating object was redesigned for injection molding to reduce weight with same structural rigidity. Geometric modifications were done to obtain the same stiffness with glass fiber reinforced injection molding. Injection molding simulations were then done to study the effect of fiber orientation on the strength of the part.&lt;/li&gt;
+  &lt;li&gt;A cast iron rotating object was redesigned for injection molding to reduce weight with same structural rigidity. Geometric modifications in CATIA were done to obtain the same stiffness with glass fiber reinforced injection molding along with structural simulations in Abaqus. Injection molding simulations were then done to study the effect of fiber orientation on the strength of the part&lt;/li&gt;
 &lt;br /&gt;
-  &lt;li&gt;A steering column was designed using composites and the effect of material orientation and properties on the natural frequency of the part was studied using Abaqus.&lt;/li&gt;
+  &lt;li&gt;A steering column was designed using composites and the effect of material orientation and properties on the natural frequency of the part was studied using Abaqus&lt;/li&gt;
 &lt;/ul&gt;
 
 

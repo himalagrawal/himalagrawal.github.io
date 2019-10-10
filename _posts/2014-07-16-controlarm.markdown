@@ -5,7 +5,7 @@ subtitle: Mechanical Design
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: golden.jpg
+img: golden.png
 thumbnail: golden-thumbnail.png
 alt: image-alt
 project-date: April 2014
@@ -85,29 +85,27 @@ description:
 <img src="img/portfolio/ford/testing/13.jpg" class="img-responsive img-centered" alt="Ford Image 13">
 <p class="text-muted" align = "center"> <b> Fig 12. </b>Shear failure of specimens to calculate shear modulus</p>
 
-<img src="img/portfolio/ford/1.jpg" class="img-responsive img-centered" alt="Ford Image 14">
-<p class="text-muted" align = "center"> <b> Fig 13. </b>CAD assembly model of aluminum casted control arm</p>
 
 <img src="img/portfolio/ford/2.png" class="img-responsive img-centered" alt="Ford Image 15">
-<p class="text-muted" align = "center"> <b> Fig 14. </b>CAD geometry for stamped control arm to be made using compression molding</p>
+<p class="text-muted" align = "center"> <b> Fig 13. </b>CAD geometry for stamped control arm to be made using compression molding</p>
 
 <img src="img/portfolio/ford/3.png" class="img-responsive img-centered" alt="Ford Image 16">
-<p class="text-muted" align = "center"> <b> Fig 15. </b>Process of formation of tow and fabric</p>
+<p class="text-muted" align = "center"> <b> Fig 14. </b>Process of formation of tow and fabric</p>
 
 <img src="img/portfolio/ford/4.png" class="img-responsive img-centered" alt="Ford Image 16">
-<p class="text-muted" align = "center"> <b> Fig 16. </b>Assignment of principal directions for composite laminate simulation</p>
+<p class="text-muted" align = "center"> <b> Fig 15. </b>Assignment of principal directions for composite laminate simulation</p>
 
 <img src="img/portfolio/ford/5.png" class="img-responsive img-centered" alt="Ford Image 16">
-<p class="text-muted" align = "center"> <b> Fig 17. </b> Displacement contours for bending and compression load cases of composite laminate</p>
+<p class="text-muted" align = "center"> <b> Fig 16. </b> Displacement contours for bending and compression load cases of composite laminate</p>
 
 <img src="img/portfolio/ford/6.png" class="img-responsive img-centered" alt="Ford Image 16">
-<p class="text-muted" align = "center"> <b> Fig 18. </b>Modification of surfaces to reduce stress and displacement results</p>
+<p class="text-muted" align = "center"> <b> Fig 17. </b>Modification of surfaces to reduce stress and displacement results</p>
 
 <img src="img/portfolio/ford/7.png" class="img-responsive img-centered" alt="Ford Image 16">
-<p class="text-muted" align = "center"> <b> Fig 19. </b>Geometric modification I </p>
+<p class="text-muted" align = "center"> <b> Fig 18. </b>Geometric modification I </p>
 
 <img src="img/portfolio/ford/8.png" class="img-responsive img-centered" alt="Ford Image 16">
-<p class="text-muted" align = "center"> <b> Fig 20. </b>Geometric modification II</p>
+<p class="text-muted" align = "center"> <b> Fig 19. </b>Geometric modification II</p>
 </div>
 
 </div>

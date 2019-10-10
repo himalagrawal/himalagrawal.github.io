@@ -25,9 +25,9 @@ Due to the signing of an agreement with certain automotive companies photos and 
 <br>
 <br>
  <ul>
-  <li>A cast iron rotating object was redesigned for injection molding to reduce weight with same structural rigidity. Geometric modifications were done to obtain the same stiffness with glass fiber reinforced injection molding. Injection molding simulations were then done to study the effect of fiber orientation on the strength of the part.</li>
+  <li>A cast iron rotating object was redesigned for injection molding to reduce weight with same structural rigidity. Geometric modifications in CATIA were done to obtain the same stiffness with glass fiber reinforced injection molding along with structural simulations in Abaqus. Injection molding simulations were then done to study the effect of fiber orientation on the strength of the part</li>
 <br>
-  <li>A steering column was designed using composites and the effect of material orientation and properties on the natural frequency of the part was studied using Abaqus.</li>
+  <li>A steering column was designed using composites and the effect of material orientation and properties on the natural frequency of the part was studied using Abaqus</li>
 </ul>
 
 
