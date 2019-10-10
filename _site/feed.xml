@@ -5,8 +5,8 @@
     <description>Portfolio website - Himal Agrawal</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 10 Oct 2019 14:45:33 -0400</pubDate>
-    <lastBuildDate>Thu, 10 Oct 2019 14:45:33 -0400</lastBuildDate>
+    <pubDate>Thu, 10 Oct 2019 15:03:14 -0400</pubDate>
+    <lastBuildDate>Thu, 10 Oct 2019 15:03:14 -0400</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -486,8 +486,8 @@ Due to the signing of an agreement with certain automotive companies photos and 
 &lt;/div&gt;
 </description>
         <pubDate>Fri, 11 Jul 2014 00:00:00 -0400</pubDate>
-        <link>/web%20development/2014/07/11/zconfidential/</link>
-        <guid isPermaLink="true">/web%20development/2014/07/11/zconfidential/</guid>
+        <link>/web%20development/2014/07/11/confidential/</link>
+        <guid isPermaLink="true">/web%20development/2014/07/11/confidential/</guid>
         
         
         <category>Web Development</category>
@@ -711,10 +711,10 @@ The final project of the course included implementing the PID cruise control alg
 &lt;div class=&quot;col-md-6 col-md-offset-3&quot;&gt;
 
 
-&lt;img src=&quot;img/portfolio/cruise_control/1.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Cruise Control Image 1&quot; /&gt;
+&lt;img src=&quot;img/portfolio/cruise/1.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Cruise Control Image 1&quot; /&gt;
 &lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 1. &lt;/b&gt;Complete experimental setup including 4-stroke engine, air supply, air filter and regulator, microcontroller, motor and optical encoder&lt;/p&gt;
 
-&lt;img src=&quot;img/portfolio/cruise_control/2.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Cruise Control Image 2&quot; /&gt;
+&lt;img src=&quot;img/portfolio/cruise/2.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Cruise Control Image 2&quot; /&gt;
 &lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 2. &lt;/b&gt;Model engine operated by air pressue with attached encoder to measure rotational rpm&lt;/p&gt;
 
 
