@@ -5,7 +5,7 @@ subtitle:
 layout: default
 modal-id: 13
 date: 2014-07-6
-img: 
+img: white.png
 thumbnail: programming.png
 alt: Brief Summary
 project-date: April 2014
@@ -15,11 +15,7 @@ description:
 
 ---
 
-<br>
-<br>
 <div style="text-align: justify">
-
-
 
 <b>Programming :</b>  Skilled with programming languages C, MATLAB and Python. Completed the python course offered by Purdue University to earn a certification. Familiar with the python concepts of functions, lists, tuples, sets, dictionaries, regular expression, matplotlib, class and inheritance, NumPy and Pandas. 
 <br>

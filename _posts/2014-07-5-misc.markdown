@@ -5,7 +5,7 @@ subtitle:
 layout: default
 modal-id: 14
 date: 2014-07-5
-img: 
+img: white.png
 thumbnail: awards.png
 alt: Brief Summary
 project-date: April 2014
@@ -16,8 +16,7 @@ description:
 ---
 
 <div style="text-align: justify">
-<br>
-<br>
+
 
 <b> Honours and Awards :</b>
 <br>

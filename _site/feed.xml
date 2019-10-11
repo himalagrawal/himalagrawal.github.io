@@ -5,8 +5,8 @@
     <description>Portfolio website - Himal Agrawal</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 10 Oct 2019 15:03:14 -0400</pubDate>
-    <lastBuildDate>Thu, 10 Oct 2019 15:03:14 -0400</lastBuildDate>
+    <pubDate>Fri, 11 Oct 2019 12:45:16 -0400</pubDate>
+    <lastBuildDate>Fri, 11 Oct 2019 12:45:16 -0400</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -733,11 +733,7 @@ The final project of the course included implementing the PID cruise control alg
     
       <item>
         <title>Programming</title>
-        <description>&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-&lt;div style=&quot;text-align: justify&quot;&gt;
-
-
+        <description>&lt;div style=&quot;text-align: justify&quot;&gt;
 
 &lt;b&gt;Programming :&lt;/b&gt;  Skilled with programming languages C, MATLAB and Python. Completed the python course offered by Purdue University to earn a certification. Familiar with the python concepts of functions, lists, tuples, sets, dictionaries, regular expression, matplotlib, class and inheritance, NumPy and Pandas. 
 &lt;br /&gt;
