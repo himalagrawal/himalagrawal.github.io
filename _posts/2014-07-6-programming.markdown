@@ -32,5 +32,5 @@ Passionate about evolving technologies like machine learning and completed Machi
   <li>Anomaly Detection and Recommender Systems</li>
 </ul> 
 <br>
-Currently exploring deep learning as time permits.
+Currently exploring deep learning.
 </div>

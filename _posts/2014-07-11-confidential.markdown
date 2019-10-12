@@ -5,7 +5,7 @@ subtitle: Mechanical Design
 layout: default
 modal-id: 8
 date: 2014-07-11
-img: 
+img: white.png
 thumbnail: confidential.png
 alt: Brief Summary
 project-date: April 2014
@@ -14,8 +14,6 @@ category: Web Development
 description: 
 ---
 
-<br>
-<br>
 <div style="text-align: justify">
 
 
