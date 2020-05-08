@@ -1,0 +1,24 @@
+I"$<div style="text-align: justify">
+Helped a team of undergraduate students for the student design project to manufacture a composite bicycle saddle for improved rider load pressure distribution and improved ergonomics. My role in the project was to help them make tools for the composite layup using CNC machining. I created the geometry and machined the part using 3 axis CNC machine from the generated tool path in CATIA V5. The images of the tools are as follows.
+
+<br />
+<br />
+<b>Project Images:</b>
+<div class="row">
+<div class="col-md-6 col-md-offset-3">
+
+<img src="img/portfolio/matternet/1.png" class="img-responsive img-centered" alt="Matternet Image 1" />
+<p class="text-muted" align="center"> <b> Fig 1. </b>Interface of windows app used for motor and esc qualification with customizable values</p>
+
+<img src="img/portfolio/matternet/2.png" class="img-responsive img-centered" alt="Matternet Image 2" />
+<p class="text-muted" align="center"> <b> Fig 2. </b>Ramp profile to be used for motor and esc qualification test</p>
+
+
+</div>
+
+
+</div>
+
+
+</div>
+:ET

@@ -1,7 +1,7 @@
 ---
-title: Programming
+title: Programming knowledge
 heading: Programming
-subtitle: 
+subtitle: Software
 layout: default
 modal-id: 13
 date: 2014-07-6
@@ -17,7 +17,7 @@ description:
 
 <div style="text-align: justify">
 
-<b>Programming :</b>  Skilled with programming languages C, MATLAB and Python. Completed the python course offered by Purdue University to earn a certification. Familiar with the python concepts of functions, lists, tuples, sets, dictionaries, regular expression, matplotlib, class and inheritance, NumPy and Pandas. 
+<b>Programming :</b>  Skilled with programming languages C++ and Python. Completed the python course offered by Purdue University to earn a certification. Familiar with the python concepts of functions, lists, tuples, sets, dictionaries, regular expression, matplotlib, class and inheritance, NumPy and Pandas. 
 <br>
 Passionate about evolving technologies like machine learning and completed Machine Learning course offered by Coursera to obtain 100% grade. Gained knowledge and programming skills in the following mentioned areas.
 <br>
@@ -32,5 +32,4 @@ Passionate about evolving technologies like machine learning and completed Machi
   <li>Anomaly Detection and Recommender Systems</li>
 </ul> 
 <br>
-Currently exploring deep learning.
 </div>

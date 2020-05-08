@@ -3,11 +3,71 @@
   <channel>
     <title>Himal Agrawal</title>
     <description>Portfolio website - Himal Agrawal</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 11 Oct 2019 17:10:31 -0400</pubDate>
-    <lastBuildDate>Fri, 11 Oct 2019 17:10:31 -0400</lastBuildDate>
-    <generator>Jekyll v3.0.1</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 08 May 2020 12:28:21 -0700</pubDate>
+    <lastBuildDate>Fri, 08 May 2020 12:28:21 -0700</lastBuildDate>
+    <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>Matternet</title>
+        <description>&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align: justify&quot;&gt;
+&lt;b&gt;Managers :&lt;/b&gt; Brandon Landry, Sanjeev Sharma
+&lt;br /&gt;
+&lt;br /&gt;
+
+Matternet is a Mountain View, CA based startup operating in USA and Switzerland in the field of autonomous drone logistics system. It provides an end-to-end solution integrating the Matternet M2 Drone, the Matternet Station and the Matternet Cloud Platform.
+&lt;br /&gt;
+&lt;br /&gt;
+My role at Matternet is a combination of hardware design and programming. I am familiar with python and C++ programming languages. A brief summary of my work is as follows.
+&lt;ul&gt;
+  &lt;li&gt;Developed a test for measuring motor vibration and imbalance using accelerometer, loadcell and analyzing data using Fourier transform in python&lt;/li&gt;
+  &lt;li&gt;Analyzed and compared NI load cell data acquisition systems and led the final procurement of the data acquisition system&lt;/li&gt;
+  &lt;li&gt;Made windows apps using kivy in python for technicians to facilitate easy testing of hardware. The app issued mavlink commands via hard wired links and were used for batch motor and esc qualification, parachute deployment fuse test and complete vehicle test before deployment&lt;/li&gt;
+  &lt;li&gt;Integrated the load cell and accelerometer data into the motor test windows app using python for a complete automated test with just one button click&lt;/li&gt;
+  &lt;li&gt;Modified designs and assembly for the drone using Solidworks PDM&lt;/li&gt;
+  &lt;li&gt;Performed structural simulation of drone fairings, calculations for minimum deployable height and systems level test for electrical components&lt;/li&gt;
+  &lt;li&gt;Enhanced understanding of Ardupilot code and functioning, mavExplorer, mavProxy, mavlink, flight logs&lt;/li&gt;
+
+&lt;/ul&gt;
+
+&lt;br /&gt;
+&lt;br /&gt;
+
+Only a few work images can be shared due to confidentiality issues. The image in figure 1 shows an interface of the windows app made using kivy in python which is used for batch motor and esc testing and qualification before fitting in the actual vehicles. Required values are input in accordance to a predetermined profile shown in figure 2 leading to running of motors with the load cell and accelerometer data acquisition in the background all with a single button click.
+&lt;br /&gt;
+&lt;br /&gt;
+Other apps for testing the parachute deployment system and full vehicle test before deployment were made for easy testing by concerened personnel.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-md-6 col-md-offset-3&quot;&gt;
+
+&lt;img src=&quot;img/portfolio/matternet/1.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Matternet Image 1&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 1. &lt;/b&gt;Interface of windows app used for motor and esc qualification with customizable values&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/matternet/2.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Matternet Image 2&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 2. &lt;/b&gt;Ramp profile to be used for motor and esc qualification test&lt;/p&gt;
+
+
+&lt;/div&gt;
+
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Sun, 20 Jul 2014 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/matternet</link>
+        <guid isPermaLink="true">http://localhost:4000/matternet</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
     
       <item>
         <title>Composite leaf spring</title>
@@ -100,9 +160,9 @@ of the vehicle to support weight and provide shock absorbing capacity of the veh
 &lt;/div&gt;
 
 </description>
-        <pubDate>Fri, 18 Jul 2014 00:00:00 -0400</pubDate>
-        <link>/leafspring</link>
-        <guid isPermaLink="true">/leafspring</guid>
+        <pubDate>Fri, 18 Jul 2014 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/leafspring</link>
+        <guid isPermaLink="true">http://localhost:4000/leafspring</guid>
         
         
         <category>Web Development</category>
@@ -110,7 +170,7 @@ of the vehicle to support weight and provide shock absorbing capacity of the veh
       </item>
     
       <item>
-        <title>Composite Control Arm, DuPont</title>
+        <title>Composite Control Arm</title>
         <description>&lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 &lt;div style=&quot;text-align: justify&quot;&gt;
@@ -207,9 +267,114 @@ of the vehicle to support weight and provide shock absorbing capacity of the veh
 &lt;/div&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Wed, 16 Jul 2014 00:00:00 -0400</pubDate>
-        <link>/web%20development/2014/07/16/controlarm/</link>
-        <guid isPermaLink="true">/web%20development/2014/07/16/controlarm/</guid>
+        <pubDate>Wed, 16 Jul 2014 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/web%20development/2014/07/16/controlarm/</link>
+        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/16/controlarm/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Compression molding of pin brackets</title>
+        <description>&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align: justify&quot;&gt;
+&lt;b&gt;Students Incharge :&lt;/b&gt; Himal Agrawal, Matt Boston, Rong Chiu, Deba Khawas, Siddharth Pantoji
+&lt;br /&gt;
+&lt;b&gt;Professor Incharge :&lt;/b&gt;Dr. Robert Byron Pipes
+&lt;br /&gt;
+&lt;br /&gt;
+
+
+&lt;b&gt;Abstract :&lt;/b&gt; The work presented was a joint effort of above mentioned students as the final project for Manufacturing of Composites 590 grad class at Purdue University. In the aerospace industry, ever higher strength-to-weight ratios are naturally sought. This has led to wider use of composite components throughout the aircraft. The most common, traditional methods for composite manufacturing tend to be slow and expensive, however. Part layup and curing times make even small parts take longer to manufacture than cast parts or weldments made of metal. Laminated composites also provide limits on part complexity, drastically reducing the design space allowed for engineers. Compression molding of composites provides a reasonable alternative that allows for relatively quick manufacturing times while also providing possibilities for complex geometries.
+&lt;br /&gt;
+In the current project an engineered preform is designed in this experiment to accommodate a given part geometry. This experiment is the synthesis of many of the principles of composite manufacturing. An initial layup of the charge is determined using a stress and failure analysis. Experiments on the curing behavior of the resin system are employed in defining a cure cycle. The cycle is chosen to provide the ideal properties for resin and fiber flow, while trying to maintain an appropriate fiber volume fraction and minimize material lost due to flash. The parts are then manufactured and tested to evaluate their overall strength.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt; Brief Summary :&lt;/b&gt;
+&lt;ul&gt;
+  &lt;li&gt;The project aimed at creating a part with highest strength to weight ratio for a particular loading and geometry by using engineering knowledge to make changes in process conditions and preform design. The geometry is of a part flying on the Boeing 787 Dreamliner&lt;/li&gt;
+  &lt;li&gt;Stress analysis for isotropic conditions and ply orientation analysis was performed using Abaqus to minimize the Tsai-Wu failure criteria which led to selection of [0/45/-45/90]2s ply orientation for compression molding&lt;/li&gt;
+  &lt;li&gt;Cure cycle was determined from experimental DSC experiments and preforms were cut on a CNC Gerber cutter with half inch cuts in the plies to improve fiber flow&lt;/li&gt;
+  &lt;li&gt;One of the part was made with through thickness fiber reinforcements to study if the interlaminar failure can be avoided using fiber reinforcements in compression molding&lt;/li&gt;
+  &lt;li&gt;Mechanical tensile test was performed to observe the maximum load carried by part and the failure locations&lt;/li&gt;
+  &lt;li&gt;Microscopy was performed on failed parts to observe the fiber flow in compression molding and obtain insights into failure mechanisms&lt;/li&gt;
+
+
+&lt;/ul&gt;
+
+&lt;br /&gt;
+&lt;br /&gt;
+
+&lt;b&gt;Project Images:&lt;/b&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-md-6 col-md-offset-3&quot;&gt;
+
+
+&lt;img src=&quot;img/portfolio/compression_molding/1.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Compression Molding Image 1&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 1. &lt;/b&gt;Image of Boeing 787 Dreamliner part geometry used for analysis and compression molding&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/compression_molding/2.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Compression Molding Image 2&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 2. &lt;/b&gt;Tsai-Wu value of a layer&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/compression_molding/3.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Compression Molding Image 3&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 3. &lt;/b&gt;The displacement along y-axis of each layup.&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/compression_molding/4.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Compression Molding Image 4&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 4. &lt;/b&gt;Plot of DSC data for resin system&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/compression_molding/5.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Compression Molding Image 5&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 5. &lt;/b&gt;CAD geometry for cutting prepreg : (Left) Optimal placement of +45o laminae on 11.75 inch wide prepreg roll. (Top Right) 90o laminae slits and peg holes. (Bottom Right) 0o laminae slits and peg holes.&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/compression_molding/6.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Compression Molding Image 6&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 6. &lt;/b&gt;Mold assembly: 3-part female half and 1-part male half.&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/compression_molding/7.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Compression Molding Image 7&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 7. &lt;/b&gt;Flash consisting of resin and fiber being squeezed into mold gaps.&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/compression_molding/8.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Compression Molding Image 8&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 8. &lt;/b&gt;Hole in laid up charge with z-directional peg for insertion.&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/compression_molding/9.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Compression Molding Image 9&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 9. &lt;/b&gt;Compression molded final part&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/compression_molding/10.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Compression Molding Image 10&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 10. &lt;/b&gt;Photos of final part with (a) pin and testing arm and (b)mounted on testing fixture.&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/compression_molding/11.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Compression Molding Image 11&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 11. &lt;/b&gt;Photos of Part 1 failure (a) while under load and (b) in a close view after removal from the fixture.&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/compression_molding/12.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Compression Molding Image 12&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 12. &lt;/b&gt;Photos of Part 2 failure.&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/compression_molding/13.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Compression Molding Image 13&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 13. &lt;/b&gt;Photos of Part 3 failure.&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/compression_molding/14.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Compression Molding Image 14&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 14. &lt;/b&gt;Load-displacement curves showing maximum load for each part.&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/compression_molding/15.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Compression Molding Image 15&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 15. &lt;/b&gt;Micrograph showing z reinforcement location before and after molding (highlighted in red).&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/compression_molding/16.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Compression Molding Image 16&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 16. &lt;/b&gt; Micrograph showing delaminations and cracks (highlighted in yellow).&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/compression_molding/17.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Compression Molding Image 17&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 17. &lt;/b&gt;The TEAM&lt;/p&gt;
+
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 14 Jul 2014 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/web%20development/2014/07/14/compression_molding/</link>
+        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/14/compression_molding/</guid>
         
         
         <category>Web Development</category>
@@ -328,9 +493,9 @@ of the vehicle to support weight and provide shock absorbing capacity of the veh
 &lt;/div&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Sun, 13 Jul 2014 00:00:00 -0400</pubDate>
-        <link>/web%20development/2014/07/13/manufacturing/</link>
-        <guid isPermaLink="true">/web%20development/2014/07/13/manufacturing/</guid>
+        <pubDate>Sun, 13 Jul 2014 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/web%20development/2014/07/13/manufacturing/</link>
+        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/13/manufacturing/</guid>
         
         
         <category>Web Development</category>
@@ -455,9 +620,9 @@ of the vehicle to support weight and provide shock absorbing capacity of the veh
 &lt;/div&gt;
 
 </description>
-        <pubDate>Sat, 12 Jul 2014 00:00:00 -0400</pubDate>
-        <link>/web%20development/2014/07/12/characterization/</link>
-        <guid isPermaLink="true">/web%20development/2014/07/12/characterization/</guid>
+        <pubDate>Sat, 12 Jul 2014 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/web%20development/2014/07/12/characterization/</link>
+        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/12/characterization/</guid>
         
         
         <category>Web Development</category>
@@ -483,9 +648,9 @@ Due to the signing of an agreement with certain automotive companies photos and 
 
 &lt;/div&gt;
 </description>
-        <pubDate>Fri, 11 Jul 2014 00:00:00 -0400</pubDate>
-        <link>/web%20development/2014/07/11/confidential/</link>
-        <guid isPermaLink="true">/web%20development/2014/07/11/confidential/</guid>
+        <pubDate>Fri, 11 Jul 2014 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/web%20development/2014/07/11/confidential/</link>
+        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/11/confidential/</guid>
         
         
         <category>Web Development</category>
@@ -533,9 +698,9 @@ The work involved studying the existing technologies available and modifying to 
 &lt;/div&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Thu, 10 Jul 2014 00:00:00 -0400</pubDate>
-        <link>/web%20development/2014/07/10/teamkart/</link>
-        <guid isPermaLink="true">/web%20development/2014/07/10/teamkart/</guid>
+        <pubDate>Thu, 10 Jul 2014 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/web%20development/2014/07/10/teamkart/</link>
+        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/10/teamkart/</guid>
         
         
         <category>Web Development</category>
@@ -597,9 +762,9 @@ Outcomes of the project:
 &lt;/div&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Wed, 09 Jul 2014 00:00:00 -0400</pubDate>
-        <link>/web%20development/2014/07/09/fsw/</link>
-        <guid isPermaLink="true">/web%20development/2014/07/09/fsw/</guid>
+        <pubDate>Wed, 09 Jul 2014 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/web%20development/2014/07/09/fsw/</link>
+        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/09/fsw/</guid>
         
         
         <category>Web Development</category>
@@ -651,109 +816,9 @@ The quadcopter was fully functional and performed facial recognition for require
 
 &lt;/div&gt;
 </description>
-        <pubDate>Tue, 08 Jul 2014 00:00:00 -0400</pubDate>
-        <link>/web%20development/2014/07/08/quad/</link>
-        <guid isPermaLink="true">/web%20development/2014/07/08/quad/</guid>
-        
-        
-        <category>Web Development</category>
-        
-      </item>
-    
-      <item>
-        <title>Implementing Cruise Control</title>
-        <description>&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-&lt;div style=&quot;text-align: justify&quot;&gt;
-&lt;b&gt;Student Incharge :&lt;/b&gt; Himal Agrawal
-&lt;br /&gt;
-&lt;b&gt;Project Supervisor :&lt;/b&gt; Prof. Peter Meckl
-&lt;br /&gt;
-&lt;br /&gt;
-
-
-
-&lt;b&gt;Project Details :&lt;/b&gt;  The project of implementing the cruise control algorithm using PID for a steam engine was done as a part of the course Microprocessors in electro-mechanical systems. The class objectives were to develop detailed understanding in the areas mentioned below with lab experiments for practical implementation. 
-&lt;br /&gt;
-&lt;br /&gt;
- &lt;ul&gt;
-  &lt;li&gt;Digital Logic&lt;/li&gt;
-  &lt;li&gt;Microcontroller components and programming&lt;/li&gt;
-  &lt;li&gt;Assembly language programming&lt;/li&gt;
-  &lt;li&gt;Subroutines using assembly language and C&lt;/li&gt;
-  &lt;li&gt;Programming peripherals using assembly language and C&lt;/li&gt;
-  &lt;li&gt;Programming GPIO using assembly language and C&lt;/li&gt;
-  &lt;li&gt;Serial communication (UART)&lt;/li&gt;
-  &lt;li&gt;Programming interrupts using assembly language and C&lt;/li&gt;
-  &lt;li&gt;Timer interrupts&lt;/li&gt;
-  &lt;li&gt;Mixed assembly language and C language programming&lt;/li&gt;
-  &lt;li&gt;Digital to Analog conversion&lt;/li&gt;
-  &lt;li&gt;Analog to Digital conversion&lt;/li&gt;
-  &lt;li&gt;Continuous and discrete PID control system&lt;/li&gt;
-  &lt;li&gt;Effects of sampling and aliasing in PID&lt;/li&gt;
-  &lt;li&gt;Digital filters&lt;/li&gt;
-  &lt;li&gt;Peripherals (Timers, DMA, I^2C, GPIO)&lt;/li&gt;
-  &lt;li&gt;Types of stepper motors and its programming&lt;/li&gt;
-  &lt;li&gt;Optical encoders&lt;/li&gt;
-&lt;/ul&gt; 
-&lt;br /&gt;
-The final project of the course included implementing the PID cruise control algorithm using all the knowledge from the course material and lab experiments on a model steam engine. The tasks included writing a PID algorithm in an interrupt and running the interrupt at a given frequency to implement the algorithm on the engine. The PI controller values were found by system characterization for a given damping ratio and settling time.  The model was also simulated in Simulink to verify and compare the system response. The controller was then implemented on the STM32 microcontroller for the digital implementation of the system. The cruise controller performed as expected by maintaining the speed within a required settling time and achieved all project deliverables.
-&lt;br /&gt;
-&lt;br /&gt;
-
-&lt;b&gt;Project Images:&lt;/b&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;div class=&quot;row&quot;&gt;
-&lt;div class=&quot;col-md-6 col-md-offset-3&quot;&gt;
-
-
-&lt;img src=&quot;img/portfolio/cruise/1.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Cruise Control Image 1&quot; /&gt;
-&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 1. &lt;/b&gt;Complete experimental setup including 4-stroke engine, air supply, air filter and regulator, microcontroller, motor and optical encoder&lt;/p&gt;
-
-&lt;img src=&quot;img/portfolio/cruise/2.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Cruise Control Image 2&quot; /&gt;
-&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 2. &lt;/b&gt;Model engine operated by air pressue with attached encoder to measure rotational rpm&lt;/p&gt;
-
-
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Mon, 07 Jul 2014 00:00:00 -0400</pubDate>
-        <link>/web%20development/2014/07/07/cruise/</link>
-        <guid isPermaLink="true">/web%20development/2014/07/07/cruise/</guid>
-        
-        
-        <category>Web Development</category>
-        
-      </item>
-    
-      <item>
-        <title>Programming</title>
-        <description>&lt;div style=&quot;text-align: justify&quot;&gt;
-
-&lt;b&gt;Programming :&lt;/b&gt;  Skilled with programming languages C, MATLAB and Python. Completed the python course offered by Purdue University to earn a certification. Familiar with the python concepts of functions, lists, tuples, sets, dictionaries, regular expression, matplotlib, class and inheritance, NumPy and Pandas. 
-&lt;br /&gt;
-Passionate about evolving technologies like machine learning and completed Machine Learning course offered by Coursera to obtain 100% grade. Gained knowledge and programming skills in the following mentioned areas.
-&lt;br /&gt;
-&lt;br /&gt;
- &lt;ul&gt;
-  &lt;li&gt;Linear and Logistic Regression&lt;/li&gt;
-  &lt;li&gt;Multi class classification&lt;/li&gt;
-  &lt;li&gt;Neural network – Forward propagation and backpropagation&lt;/li&gt;
-  &lt;li&gt;Regularized regression and Bias vs Variance&lt;/li&gt;
-  &lt;li&gt;Support Vector Machines&lt;/li&gt;
-  &lt;li&gt;K-means Clustering and Principal Component Analysis&lt;/li&gt;
-  &lt;li&gt;Anomaly Detection and Recommender Systems&lt;/li&gt;
-&lt;/ul&gt; 
-&lt;br /&gt;
-Currently exploring deep learning.
-&lt;/div&gt;
-</description>
-        <pubDate>Sun, 06 Jul 2014 00:00:00 -0400</pubDate>
-        <link>/web%20development/2014/07/06/programming/</link>
-        <guid isPermaLink="true">/web%20development/2014/07/06/programming/</guid>
+        <pubDate>Tue, 08 Jul 2014 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/web%20development/2014/07/08/quad/</link>
+        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/08/quad/</guid>
         
         
         <category>Web Development</category>

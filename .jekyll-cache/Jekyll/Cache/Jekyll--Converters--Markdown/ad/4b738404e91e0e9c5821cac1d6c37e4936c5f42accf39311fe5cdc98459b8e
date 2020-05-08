@@ -1,0 +1,58 @@
+I"<p><br />
+<br /></p>
+<div style="text-align: justify">
+<b>Student Incharge :</b> Himal Agrawal
+<br />
+<b>Project Supervisor :</b> Prof. Peter Meckl
+<br />
+<br />
+
+
+
+<b>Project Details :</b>  The project of implementing the cruise control algorithm using PID for a steam engine was done as a part of the course Microprocessors in electro-mechanical systems. The class objectives were to develop detailed understanding in the areas mentioned below with lab experiments for practical implementation. 
+<br />
+<br />
+ <ul>
+  <li>Digital Logic</li>
+  <li>Microcontroller components and programming</li>
+  <li>Assembly language programming</li>
+  <li>Subroutines using assembly language and C</li>
+  <li>Programming peripherals using assembly language and C</li>
+  <li>Programming GPIO using assembly language and C</li>
+  <li>Serial communication (UART)</li>
+  <li>Programming interrupts using assembly language and C</li>
+  <li>Timer interrupts</li>
+  <li>Mixed assembly language and C language programming</li>
+  <li>Digital to Analog conversion</li>
+  <li>Analog to Digital conversion</li>
+  <li>Continuous and discrete PID control system</li>
+  <li>Effects of sampling and aliasing in PID</li>
+  <li>Digital filters</li>
+  <li>Peripherals (Timers, DMA, I^2C, GPIO)</li>
+  <li>Types of stepper motors and its programming</li>
+  <li>Optical encoders</li>
+</ul> 
+<br />
+The final project of the course included implementing the PID cruise control algorithm using all the knowledge from the course material and lab experiments on a model steam engine. The tasks included writing a PID algorithm in an interrupt and running the interrupt at a given frequency to implement the algorithm on the engine. The PI controller values were found by system characterization for a given damping ratio and settling time.  The model was also simulated in Simulink to verify and compare the system response. The controller was then implemented on the STM32 microcontroller for the digital implementation of the system. The cruise controller performed as expected by maintaining the speed within a required settling time and achieved all project deliverables.
+<br />
+<br />
+
+<b>Project Images:</b>
+<br />
+<br />
+<br />
+<div class="row">
+<div class="col-md-6 col-md-offset-3">
+
+
+<img src="img/portfolio/cruise/1.jpg" class="img-responsive img-centered" alt="Cruise Control Image 1" />
+<p class="text-muted" align="center"> <b> Fig 1. </b>Complete experimental setup including 4-stroke engine, air supply, air filter and regulator, microcontroller, motor and optical encoder</p>
+
+<img src="img/portfolio/cruise/2.jpg" class="img-responsive img-centered" alt="Cruise Control Image 2" />
+<p class="text-muted" align="center"> <b> Fig 2. </b>Model engine operated by air pressue with attached encoder to measure rotational rpm</p>
+
+
+</div>
+</div>
+</div>
+:ET

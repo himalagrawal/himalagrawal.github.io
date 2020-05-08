@@ -57,8 +57,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 2250 Yeager Rd, Apt 20-1
-  - line: West Lafayette, IN, 47906
+  - line: 555 San Martin Ter, Apt 3
+  - line: Sunnyvale, CA, 94085
 
 # Build settings
 markdown: kramdown
