@@ -3,15 +3,15 @@ title: Formula Student Team, IIT Kharagpur
 heading: Formula Student Team, IIT Kharagpur
 subtitle: Mechanical Design
 layout: default
-modal-id: 9
+modal-id: 8
 date: 2014-07-10
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+img: teamkart/roundicons.png
+thumbnail: teamkart/roundicons-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: 
+description:
 ---
 
 <br>
@@ -25,10 +25,10 @@ description:
 
 
 
-<b>Abstract :</b>  TeamKart is the formula student team of IIT Kharagpur which designs, fabricates, manufactures and tests Formula prototype sports car. As a part of the transmission subsystem, I along with other members of the subsystem designed and implemented an electro-pneumatic gear shifting mechanism from the existing manual pull-push rod shifting mechanism for better efficiency and driver ergonomics. 
+<b>Abstract :</b>  TeamKart is the formula student team of IIT Kharagpur which designs, fabricates, manufactures and tests Formula prototype sports car. As a part of the transmission subsystem, I along with other members of the subsystem designed and implemented an electro-pneumatic gear shifting mechanism from the existing manual pull-push rod shifting mechanism for better efficiency and driver ergonomics.
 <br>
 <br>
-The work involved studying the existing technologies available and modifying to the required needs. The design and selection of several components such as high pressure air source, solenoid valve, air regulators, two way actuators and electronic wiring with an Arduino was done. The components were bought assembled together to obtain a fully functional prototype of the shifting mechanism. Calculations were done to calculate the torque requirement for shifting along with actuator lengths and mounting locations. Finally the solenoid value was actuated by pressing the up-shift or down-shift button with the algorithm planned in an Arduino. 
+The work involved studying the existing technologies available and modifying to the required needs. The design and selection of several components such as high pressure air source, solenoid valve, air regulators, two way actuators and electronic wiring with an Arduino was done. The components were bought assembled together to obtain a fully functional prototype of the shifting mechanism. Calculations were done to calculate the torque requirement for shifting along with actuator lengths and mounting locations. Finally the solenoid value was actuated by pressing the up-shift or down-shift button with the algorithm planned in an Arduino.
 <br>
 <br>
 

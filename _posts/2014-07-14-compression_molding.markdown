@@ -1,17 +1,17 @@
 ---
 title: Compression molding of pin brackets
-heading: Compression Molding of Pin Brackets Using Engineered Preforms 
+heading: Compression Molding of Pin Brackets Using Engineered Preforms
 subtitle: Mechanical Design
 layout: default
-modal-id: 3
+modal-id: 4
 date: 2014-07-14
-img: compression_molding.png
-thumbnail: compression-thumbnail.png
+img: compression_molding/compression_molding.png
+thumbnail: compression_molding/compression-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: 
+description:
 
 ---
 <br>

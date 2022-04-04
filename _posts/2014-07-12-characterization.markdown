@@ -3,15 +3,15 @@ title: Characterization of Composites
 heading: Characterization of Composites
 subtitle: Mechanical Design
 layout: default
-modal-id: 7
+modal-id: 6
 date: 2014-07-12
-img: characterization.png
-thumbnail: characterization-thumbnail.png
+img: characterization/characterization.png
+thumbnail: characterization/characterization-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: 
+description:
 
 ---
 <br>
@@ -33,7 +33,7 @@ description:
   <li>Mode I and Mode II fracture toughness</li>
   <li>Free edge effects</li>
   <li>Compression failure</li>
-</ul> 
+</ul>
 
 
 <br>
@@ -128,4 +128,3 @@ description:
 
 </div>
 </div>
-

@@ -3,10 +3,10 @@ title: Composite leaf spring
 heading: Manufacturing and Testing of Hybrid Composite Leaf Spring
 subtitle: Mechanical Design
 layout: default
-modal-id: 1
+modal-id: 2
 date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.jpg
+img: leafspring/dreams.png
+thumbnail: leafspring/dreams-thumbnail.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
@@ -21,7 +21,7 @@ permalink: /leafspring
 <div style="text-align: justify">
 <b>Student Incharge :</b> Himal Agrawal
 <br>
-<b>Project Supervisor :</b> Prof. R. Byron Pipes 
+<b>Project Supervisor :</b> Prof. R. Byron Pipes
 <br>
 <br>
 
@@ -103,4 +103,3 @@ of the vehicle to support weight and provide shock absorbing capacity of the veh
 
 </div>
 </div>
-

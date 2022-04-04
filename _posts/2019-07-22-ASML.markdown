@@ -1,0 +1,53 @@
+---
+title: ASML
+heading: Mechanical Design Engineer II
+subtitle: Mechanical Design
+layout: default
+modal-id: 0
+date: 2019-07-22
+img: asml/asml_cover.jpg
+thumbnail: asml/asml_thumbnail1.jpeg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description:
+permalink: /asml/
+
+---
+
+<br>
+<br>
+<div style="text-align: justify">
+<b>Manager :</b> Geoffrey Williams
+<br>
+<br>
+
+ASML is world leader in developing and manufacturing photolithography systems and currently it is the largest supplier of photolithography systems primarily for the semiconductor industry and the sole supplier of extreme ultraviolet lithography (EUV)  machines in the world making it possible to etch 5nm transistors for ultra high performing chips.
+<br>
+<br>
+My current role at ASML is defining and developing the crash architecture for the next generation of high throughput DUV machine reticle stage to solve the chip shortage problem. In case of software and hardware errors the reticle stage moving components are susceptible to crashing into other components causing damage, downtime or even rendering the machines useless for future use. My current work aims at identifying components affected to achieve required performance specifications, its cascading effect on the crash architecture of the system and redesigning all the crash interfaces to avoid any damage in an event of crash so that the machine can be reinitialized with minimum downtime. A subset of work involves acquiring and understanding holistic working of the overall module, critical thinking to understand cascading effects of one design change, redesigning components, performing tolerance analysis and GD&T, aligning with required stakeholders, mentoring new hires, writing detailed engineering documentation, delivering presentations to wide audience of different domains and working with suppliers to get the parts made within required specifications.
+<br>
+<br>
+In my pervious role at the company I worked with DUV NXT:2050 machines planning and performing interferometer experiments on reticle clamps for qualifying lifetime performance of the clamps under different reticle coatings. Work involved conducting experiments, diagnosing test setup, automating data processing, preparing documentation, co-ordinating with supplier to solve yield issues and analyzing data to make informed decision on next tests.
+<br>
+<br>
+The following bullet points summarize the work done.
+<br>
+<br>
+<ul>
+  <li>Lead engineer defining and designing the crash architecture of the next generation DUV photolithography machines</li>
+  <li>Conducted testing and analysis of complex mechanical and mechatronic systems</li>
+  <li>Developed Simulink models to understand system non-linear behavior and python scripts to automate data processing</li>
+  <li>Collaborated with vendors in defining requirements, obtaining feedback, establishing way of working and qualification</li>
+  <li>Designed a cleanroom machine tool to manually load reticles into chuck and thus mitigated the risk of vacuum pad failure costing $100,000 for rework</li>
+  <li>Performed interferometer measurements and data post processing to quantify nanoscopic wear on chuck vacuum pads</li>
+  <li>Conducted experimental tests to find coatings causing most wear on reticle vacuum clamp membranes</li>
+  <li>Co-ordinated and worked with suppliers to resolve manufacturing issues and production yield</li>
+  <li>Gained technical expertise in Siemens NX and part of tolerance analysis competence helping other with tolerance stackups and GD&T</li>
+</ul>
+
+<br>
+<br>
+
+</div>

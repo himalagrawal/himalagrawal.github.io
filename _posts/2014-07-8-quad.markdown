@@ -3,7 +3,7 @@ title: Surveillance using Quadcopter
 heading: Building a quadcopter for surveillance purposes using facial recognition
 subtitle: Electronics
 layout: default
-modal-id: 11
+modal-id: 10
 date: 2014-07-8
 img: quad.png
 thumbnail: quad-thumbnail.jpg
@@ -26,13 +26,13 @@ description:
 
 
 
-<b>Project Details :</b>  The purpose of the class project was to develop a remotely controlled aerial vehicle to perform facial recognition. The prototype developed was fully functional and used a transmitter to relay live video feed on laptop which is used to perform facial recognition in real time. 
+<b>Project Details :</b>  The purpose of the class project was to develop a remotely controlled aerial vehicle to perform facial recognition. The prototype developed was fully functional and used a transmitter to relay live video feed on laptop which is used to perform facial recognition in real time.
 <br>
 <br>
 The first step included was to design the quadcopter and select the required electronic components. A custom frame was manufactured by designing in CATIA followed by carbon fiber prepreg layup and oven curing and finally cutting the required geometry using a waterjet. After performing required background research on quadcopters and available technology EMAX 2300 KV motors, BLHeli 32 bit electronic speed controllers (ESC), Naze32 flight controller, power distribution board, battery, transmitter and camera were chosen. This required analysis of the total weight of the quadcopter to ensure the thrust provided by the motors would be sufficient. Additionally, the power draw of the motors was considered to ensure the battery could support a long enough flight time.
 <br>
 <br>
-The components were integrated together with correct wiring and attached with the frame. The microcontroller which acts like a brain for the quadcopter was configured to calibrate the motor, configure the transmitter settings and PID tuning. In parallel to creating the quadcopter, the code for facial recognition was developed using the open source resources like openCV. The code was put together to analyze a live video feed and perform facial recognition. From a set of still photos the code was trained to recognize the people for which it was trained. 
+The components were integrated together with correct wiring and attached with the frame. The microcontroller which acts like a brain for the quadcopter was configured to calibrate the motor, configure the transmitter settings and PID tuning. In parallel to creating the quadcopter, the code for facial recognition was developed using the open source resources like openCV. The code was put together to analyze a live video feed and perform facial recognition. From a set of still photos the code was trained to recognize the people for which it was trained.
 <br>
 <br>
 The quadcopter was fully functional and performed facial recognition for required targets. Further efforts are being made to make the quadcopter fully or semi-autonomous along with object detection using Lidar.

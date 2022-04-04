@@ -1,17 +1,17 @@
 ---
 title: Composite Control Arm
-heading: Design of composite lower control arm 
+heading: Design of composite lower control arm
 subtitle: Mechanical Design
 layout: default
-modal-id: 2
+modal-id: 3
 date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+img: ford/golden.png
+thumbnail: ford/golden-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: 
+description:
 
 ---
 <br>

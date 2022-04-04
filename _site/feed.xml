@@ -5,9 +5,150 @@
     <description>Portfolio website - Himal Agrawal</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 08 May 2020 14:16:37 -0700</pubDate>
-    <lastBuildDate>Fri, 08 May 2020 14:16:37 -0700</lastBuildDate>
-    <generator>Jekyll v4.0.0</generator>
+    <pubDate>Mon, 04 Apr 2022 01:00:36 -0400</pubDate>
+    <lastBuildDate>Mon, 04 Apr 2022 01:00:36 -0400</lastBuildDate>
+    <generator>Jekyll v4.2.2</generator>
+    
+      <item>
+        <title>ASML</title>
+        <description>&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align: justify&quot;&gt;
+&lt;b&gt;Manager :&lt;/b&gt; Geoffrey Williams
+&lt;br /&gt;
+&lt;br /&gt;
+
+ASML is world leader in developing and manufacturing photolithography systems and currently it is the largest supplier of photolithography systems primarily for the semiconductor industry and the sole supplier of extreme ultraviolet lithography (EUV)  machines in the world making it possible to etch 5nm transistors for ultra high performing chips.
+&lt;br /&gt;
+&lt;br /&gt;
+My current role at ASML is defining and developing the crash architecture for the next generation of high throughput DUV machine reticle stage to solve the chip shortage problem. In case of software and hardware errors the reticle stage moving components are susceptible to crashing into other components causing damage, downtime or even rendering the machines useless for future use. My current work aims at identifying components affected to achieve required performance specifications, its cascading effect on the crash architecture of the system and redesigning all the crash interfaces to avoid any damage in an event of crash so that the machine can be reinitialized with minimum downtime. A subset of work involves acquiring and understanding holistic working of the overall module, critical thinking to understand cascading effects of one design change, redesigning components, performing tolerance analysis and GD&amp;amp;T, aligning with required stakeholders, mentoring new hires, writing detailed engineering documentation, delivering presentations to wide audience of different domains and working with suppliers to get the parts made within required specifications.
+&lt;br /&gt;
+&lt;br /&gt;
+In my pervious role at the company I worked with DUV NXT:2050 machines planning and performing interferometer experiments on reticle clamps for qualifying lifetime performance of the clamps under different reticle coatings. Work involved conducting experiments, diagnosing test setup, automating data processing, preparing documentation, co-ordinating with supplier to solve yield issues and analyzing data to make informed decision on next tests.
+&lt;br /&gt;
+&lt;br /&gt;
+The following bullet points summarize the work done.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;ul&gt;
+  &lt;li&gt;Lead engineer defining and designing the crash architecture of the next generation DUV photolithography machines&lt;/li&gt;
+  &lt;li&gt;Conducted testing and analysis of complex mechanical and mechatronic systems&lt;/li&gt;
+  &lt;li&gt;Developed Simulink models to understand system non-linear behavior and python scripts to automate data processing&lt;/li&gt;
+  &lt;li&gt;Collaborated with vendors in defining requirements, obtaining feedback, establishing way of working and qualification&lt;/li&gt;
+  &lt;li&gt;Designed a cleanroom machine tool to manually load reticles into chuck and thus mitigated the risk of vacuum pad failure costing $100,000 for rework&lt;/li&gt;
+  &lt;li&gt;Performed interferometer measurements and data post processing to quantify nanoscopic wear on chuck vacuum pads&lt;/li&gt;
+  &lt;li&gt;Conducted experimental tests to find coatings causing most wear on reticle vacuum clamp membranes&lt;/li&gt;
+  &lt;li&gt;Co-ordinated and worked with suppliers to resolve manufacturing issues and production yield&lt;/li&gt;
+  &lt;li&gt;Gained technical expertise in Siemens NX and part of tolerance analysis competence helping other with tolerance stackups and GD&amp;amp;T&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;br /&gt;
+&lt;br /&gt;
+
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 22 Jul 2019 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/asml/</link>
+        <guid isPermaLink="true">http://localhost:4000/asml/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Personal Projects</title>
+        <description>&lt;div style=&quot;text-align: justify&quot;&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/COxbp3kMZXw&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt;FPV flying a custom made quadcopter&lt;/b&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+
+Custom built an autonomous and FPV flying drone using off the shelf components. The aim of the project was to successfully fly drone using GPS waypoint navigation autonomously and have some fun flying FPV as well. The project gave experience working with Ardupilot, electronic debugging of components, software understanding of flight control software, data analysis and processing using mavExplorer and mavProxy.
+
+&lt;br /&gt;
+&lt;br /&gt;
+
+The main components used were cube orange for flight controller, dshot 1200 ESC&apos;s, 2300 KV racing motors along with video, audio transmitter and receiver.
+
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;center&gt;&lt;h3&gt;Custom Built Laser Engraver&lt;/h3&gt;&lt;/center&gt;
+
+&lt;br /&gt;
+&lt;br /&gt;
+
+&lt;div style=&quot;text-align: justify&quot;&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/VrkiQXkrr5c&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt;Custom made laser engraver engraving eagle on coaster&lt;/b&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-md-6 col-md-offset-3&quot;&gt;
+&lt;img src=&quot;img/portfolio/personal_projects/1.jpeg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Personal project Image 1&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Images engraved on coasters using laser engraver&lt;/b&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+
+The purpose of the project was to get familiar with stepper motor and driver and eventually make a laser engraver. The individual parts were designed and 3D printed and then assembled together to achieve the required functionality. A laser assembly was also designed, manufactured and a transistor assembly was used to switch on/off the laser using the control signal from the arduino. The project helped understand working of stepper motor, drivers and generating machine code to achieve required in-plane motion. The engraved images on the coasters turned out to be better than expected.
+
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+
+&lt;center&gt;&lt;h3&gt;Self stabilizing platform using Arduino and MPU6050&lt;/h3&gt;&lt;/center&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-md-6 col-md-offset-3&quot;&gt;
+&lt;img src=&quot;img/portfolio/personal_projects/2.jpeg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Personal project Image 2&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Built self stabilizing gyro platform as camera gimbal&lt;/b&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+The aim to build a self stabilizing platform was to understand I2C communication implementation between MPU6050 and Arduino. Enhanced understanding of the protocol implementation using wire library and also I2Cdevlib for faster implementation.
+
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;center&gt;&lt;h3&gt;Selected 3D printed parts&lt;/h3&gt;&lt;/center&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-md-6 col-md-offset-3&quot;&gt;
+&lt;img src=&quot;img/portfolio/personal_projects/3.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Personal project Image 3&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Greek Meander Lamp&lt;/b&gt;&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/personal_projects/4.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Personal project Image 4&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Julius Caesar pen stand&lt;/b&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sun, 22 Jul 2018 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/personal_projects/</link>
+        <guid isPermaLink="true">http://localhost:4000/personal_projects/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
     
       <item>
         <title>Matternet</title>
@@ -21,7 +162,7 @@
 Matternet is a Mountain View, CA based startup operating in USA and Switzerland in the field of autonomous drone logistics system. It provides an end-to-end solution integrating the Matternet M2 Drone, the Matternet Station and the Matternet Cloud Platform.
 &lt;br /&gt;
 &lt;br /&gt;
-My role at Matternet is a combination of hardware design and programming. I am familiar with python and C++ programming languages. A brief summary of my work is as follows.
+My role at Matternet is a combination of hardware design and programming. I am familiar with python programming language. A brief summary of my work is as follows.
 &lt;ul&gt;
   &lt;li&gt;Developed a test for measuring motor vibration and imbalance using accelerometer, loadcell and analyzing data using Fourier transform in python&lt;/li&gt;
   &lt;li&gt;Analyzed and compared NI load cell data acquisition systems and led the final procurement of the data acquisition system&lt;/li&gt;
@@ -58,11 +199,10 @@ Other apps for testing the parachute deployment system and full vehicle test bef
 
 &lt;/div&gt;
 &lt;/div&gt;
-
 </description>
-        <pubDate>Sun, 20 Jul 2014 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/matternet</link>
-        <guid isPermaLink="true">http://localhost:4000/matternet</guid>
+        <pubDate>Sun, 20 Jul 2014 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/matternet/</link>
+        <guid isPermaLink="true">http://localhost:4000/matternet/</guid>
         
         
         <category>Web Development</category>
@@ -76,7 +216,7 @@ Other apps for testing the parachute deployment system and full vehicle test bef
 &lt;div style=&quot;text-align: justify&quot;&gt;
 &lt;b&gt;Student Incharge :&lt;/b&gt; Himal Agrawal
 &lt;br /&gt;
-&lt;b&gt;Project Supervisor :&lt;/b&gt; Prof. R. Byron Pipes 
+&lt;b&gt;Project Supervisor :&lt;/b&gt; Prof. R. Byron Pipes
 &lt;br /&gt;
 &lt;br /&gt;
 
@@ -158,9 +298,8 @@ of the vehicle to support weight and provide shock absorbing capacity of the veh
 
 &lt;/div&gt;
 &lt;/div&gt;
-
 </description>
-        <pubDate>Fri, 18 Jul 2014 00:00:00 -0700</pubDate>
+        <pubDate>Fri, 18 Jul 2014 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/leafspring</link>
         <guid isPermaLink="true">http://localhost:4000/leafspring</guid>
         
@@ -267,7 +406,7 @@ of the vehicle to support weight and provide shock absorbing capacity of the veh
 &lt;/div&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Wed, 16 Jul 2014 00:00:00 -0700</pubDate>
+        <pubDate>Wed, 16 Jul 2014 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/web%20development/2014/07/16/controlarm/</link>
         <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/16/controlarm/</guid>
         
@@ -372,7 +511,7 @@ In the current project an engineered preform is designed in this experiment to a
 &lt;/div&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Mon, 14 Jul 2014 00:00:00 -0700</pubDate>
+        <pubDate>Mon, 14 Jul 2014 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/web%20development/2014/07/14/compression_molding/</link>
         <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/14/compression_molding/</guid>
         
@@ -400,7 +539,7 @@ In the current project an engineered preform is designed in this experiment to a
   &lt;li&gt;Thermal residual stresses and deformation&lt;/li&gt;
   &lt;li&gt;Percolation and transverse squeeze flow&lt;/li&gt;
   &lt;li&gt;Compression molding&lt;/li&gt;
-&lt;/ul&gt; 
+&lt;/ul&gt;
 
 
 &lt;br /&gt;
@@ -493,7 +632,7 @@ In the current project an engineered preform is designed in this experiment to a
 &lt;/div&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Sun, 13 Jul 2014 00:00:00 -0700</pubDate>
+        <pubDate>Sun, 13 Jul 2014 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/web%20development/2014/07/13/manufacturing/</link>
         <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/13/manufacturing/</guid>
         
@@ -523,7 +662,7 @@ In the current project an engineered preform is designed in this experiment to a
   &lt;li&gt;Mode I and Mode II fracture toughness&lt;/li&gt;
   &lt;li&gt;Free edge effects&lt;/li&gt;
   &lt;li&gt;Compression failure&lt;/li&gt;
-&lt;/ul&gt; 
+&lt;/ul&gt;
 
 
 &lt;br /&gt;
@@ -618,9 +757,8 @@ In the current project an engineered preform is designed in this experiment to a
 
 &lt;/div&gt;
 &lt;/div&gt;
-
 </description>
-        <pubDate>Sat, 12 Jul 2014 00:00:00 -0700</pubDate>
+        <pubDate>Sat, 12 Jul 2014 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/web%20development/2014/07/12/characterization/</link>
         <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/12/characterization/</guid>
         
@@ -630,25 +768,115 @@ In the current project an engineered preform is designed in this experiment to a
       </item>
     
       <item>
-        <title>Outline of Confidential Projects</title>
-        <description>&lt;div style=&quot;text-align: justify&quot;&gt;
-
-
-
-
-Due to the signing of an agreement with certain automotive companies photos and files of the projects cannot be shared on a public platform. A brief description of the projects is as follows.
+        <title>Injection molded pulley</title>
+        <description>&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align: justify&quot;&gt;
+&lt;b&gt;Students Incharge :&lt;/b&gt; Himal Agrawal, David Kim
+&lt;br /&gt;
+&lt;b&gt;Project Supervisors :&lt;/b&gt; Josh Dustin, Prof. Jan-Anders Mansson
 &lt;br /&gt;
 &lt;br /&gt;
- &lt;ul&gt;
-  &lt;li&gt;A cast iron rotating object was redesigned for injection molding to reduce weight with same structural rigidity. Geometric modifications in CATIA were done to obtain the same stiffness with glass fiber reinforced injection molding along with structural simulations in Abaqus. Injection molding simulations were then done to study the effect of fiber orientation on the strength of the part&lt;/li&gt;
+
+
+&lt;b&gt;Abstract :&lt;/b&gt; Feasibility of polymer composite material pulley viable for John Deere high power belt drive in tractors was studied. The increase in maintenance difficulties for cast iron pulley being heavy led to the decision to design lighter glass giber reinforced injection molded pulley offering the same stiffness, strength, fatigue properties and resistance to creep. Structural simulations were done from the given loading conditions and the geometry was redesigned to obtain the stresses and strains in the required range and favorable geometry which could be injection molded. Injection molding simulations were then done to find the fiber orientations, warpage, air gaps, weld lines from flow and the effect of these fiber orientations on the final strength of the part.
 &lt;br /&gt;
-  &lt;li&gt;A steering column was designed using composites and the effect of material orientation and properties on the natural frequency of the part was studied using Abaqus&lt;/li&gt;
+&lt;br /&gt;
+&lt;b&gt; Brief Summary :&lt;/b&gt;
+&lt;ul&gt;
+  &lt;li&gt;Performed literature review and patent search on existing available composite pulleys designs&lt;/li&gt;
+  &lt;li&gt;Performed structural simulations for given load cases using Abaqus and redesigned the pulley assembly within the design space to account for stresses and strains&lt;/li&gt;
+  &lt;li&gt;Explored the effects of ribbing, hybrid compression molding with carbon fabric and change in geometry on stresses and strains&lt;/li&gt;
+  &lt;li&gt;Designed the gating channels, cooling channels, molds and process conditions for an initial injection molding simulation&lt;/li&gt;
+  &lt;li&gt;Performed injection molding simulations using Moldex3D to determine flow induced glass fiber orientations and characterize warpage, residual stresses, air traps, weld lines and flow front progress &lt;/li&gt;
+  &lt;li&gt;Performed structural simulation in Abaqus with flow induced glass fiber orientations as input to Abaqus model to analyze the effect of fiber orientations on stresses and strains &lt;/li&gt;
+  &lt;li&gt;An increase in stresses by 14% was observed due to orientation induced directional strength from glass fibers&lt;/li&gt;
+  &lt;li&gt;The final design was lighter by 71% from 105 lb to 30.23 lb&lt;/li&gt;
+
 &lt;/ul&gt;
+
+&lt;br /&gt;
+&lt;br /&gt;
+
+&lt;b&gt;Project Images:&lt;/b&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-md-8 col-md-offset-2&quot;&gt;
+
+&lt;img src=&quot;img/portfolio/johndeere/1.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;John Deere Image 1&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 1. &lt;/b&gt;Original geometry of the cast iron pulley and belt assembly&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/johndeere/2.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;John Deere Image 2&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 2. &lt;/b&gt;Simplified geometry for large and small pulley for simulations&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/johndeere/3.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;John Deere Image 3&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 3. &lt;/b&gt;Stress distribution in cast iron pulley for given loading conditions showing probable failure locations&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/johndeere/4.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;John Deere Image 4&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 4. &lt;/b&gt;Modified geometry for stress distribution and stress concentrations due to 6 radial ribs&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/johndeere/5.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;John Deere Image 5&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 5. &lt;/b&gt;Modified geometry for stress distribution and stress concentrations due to 12 radial ribs&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/johndeere/6.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;John Deere Image 6&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 6. &lt;/b&gt;Modified design 1 for injection molding &lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/johndeere/7.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;John Deere Image 7&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 7. &lt;/b&gt;Modified design 2 for injection molding &lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/johndeere/8.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;John Deere Image 8&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 8. &lt;/b&gt;Modified design 3 for injection molding &lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/johndeere/9.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;John Deere Image 9&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 9. &lt;/b&gt;Modified design 4 for injection molding &lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/johndeere/10.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;John Deere Image 10&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 10. &lt;/b&gt;Stress distribution for final injection molded design iteration 4 showing probable failure locations for large pulley&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/johndeere/11.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;John Deere Image 11&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 11. &lt;/b&gt;Stress distribution for final design iteration 4 showing probable failure locations for small pulley&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/johndeere/12.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;John Deere Image 12&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 12. &lt;/b&gt;Injection molding simulation design and workflow &lt;/p&gt;
+
+
+&lt;div align=&quot;center&quot;&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ovoM6nfpavM&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt; Video 1. &lt;/b&gt;Flow front progression in injection molding&lt;/p&gt;
+&lt;/div&gt;
+
+
+&lt;img src=&quot;img/portfolio/johndeere/14.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;John Deere Image 13&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 13. &lt;/b&gt;Warpage in the large pulley as a result of injection molding&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/johndeere/15.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;John Deere Image 14&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 14. &lt;/b&gt;Location of air gaps and weld lines from injection molding simulations&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/johndeere/16.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;John Deere Image 15&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 15. &lt;/b&gt;Distribution of fiber orientations in X, Y and Z directions&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/johndeere/17.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;John Deere Image 16&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 16. &lt;/b&gt;Mapping of fiber orientations from injection molding using Digimat to Abaqus file for structural simulation&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/johndeere/18.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;John Deere Image 16&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 17. &lt;/b&gt;Mapped orientations to abaqus file for large and small pulley from injection molding simulations&lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/johndeere/19.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;John Deere Image 16&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 18. &lt;/b&gt;Stresses from anisotropic structural simulation accounting for fiber orientation from injection molding which leads to overall 14% increase in overall stresses from isotropic simulations &lt;/p&gt;
+
+&lt;img src=&quot;img/portfolio/johndeere/20.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;John Deere Image 16&quot; /&gt;
+&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 19. &lt;/b&gt;Principal strains from structural simulation accounting for fiber orientations from injection molding&lt;/p&gt;
+&lt;/div&gt;
+
+
 
 
 &lt;/div&gt;
+&lt;/div&gt;
 </description>
-        <pubDate>Fri, 11 Jul 2014 00:00:00 -0700</pubDate>
+        <pubDate>Fri, 11 Jul 2014 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/web%20development/2014/07/11/confidential/</link>
         <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/11/confidential/</guid>
         
@@ -670,10 +898,10 @@ Due to the signing of an agreement with certain automotive companies photos and 
 
 
 
-&lt;b&gt;Abstract :&lt;/b&gt;  TeamKart is the formula student team of IIT Kharagpur which designs, fabricates, manufactures and tests Formula prototype sports car. As a part of the transmission subsystem, I along with other members of the subsystem designed and implemented an electro-pneumatic gear shifting mechanism from the existing manual pull-push rod shifting mechanism for better efficiency and driver ergonomics. 
+&lt;b&gt;Abstract :&lt;/b&gt;  TeamKart is the formula student team of IIT Kharagpur which designs, fabricates, manufactures and tests Formula prototype sports car. As a part of the transmission subsystem, I along with other members of the subsystem designed and implemented an electro-pneumatic gear shifting mechanism from the existing manual pull-push rod shifting mechanism for better efficiency and driver ergonomics.
 &lt;br /&gt;
 &lt;br /&gt;
-The work involved studying the existing technologies available and modifying to the required needs. The design and selection of several components such as high pressure air source, solenoid valve, air regulators, two way actuators and electronic wiring with an Arduino was done. The components were bought assembled together to obtain a fully functional prototype of the shifting mechanism. Calculations were done to calculate the torque requirement for shifting along with actuator lengths and mounting locations. Finally the solenoid value was actuated by pressing the up-shift or down-shift button with the algorithm planned in an Arduino. 
+The work involved studying the existing technologies available and modifying to the required needs. The design and selection of several components such as high pressure air source, solenoid valve, air regulators, two way actuators and electronic wiring with an Arduino was done. The components were bought assembled together to obtain a fully functional prototype of the shifting mechanism. Calculations were done to calculate the torque requirement for shifting along with actuator lengths and mounting locations. Finally the solenoid value was actuated by pressing the up-shift or down-shift button with the algorithm planned in an Arduino.
 &lt;br /&gt;
 &lt;br /&gt;
 
@@ -698,127 +926,9 @@ The work involved studying the existing technologies available and modifying to 
 &lt;/div&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Thu, 10 Jul 2014 00:00:00 -0700</pubDate>
+        <pubDate>Thu, 10 Jul 2014 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/web%20development/2014/07/10/teamkart/</link>
         <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/10/teamkart/</guid>
-        
-        
-        <category>Web Development</category>
-        
-      </item>
-    
-      <item>
-        <title>Modelling of Friction Stir Welding</title>
-        <description>&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-&lt;div style=&quot;text-align: justify&quot;&gt;
-&lt;b&gt;Student Incharge :&lt;/b&gt; Himal Agrawal
-&lt;br /&gt;
-&lt;b&gt;Project Supervisors :&lt;/b&gt; Prof. Rahul Jain, Prof. S.K. Pal
-&lt;br /&gt;
-&lt;br /&gt;
-
-
-
-&lt;b&gt;Project Details :&lt;/b&gt;  Friction stir welding is a solid state joining process that uses frictional heat generated by a rotating tool to join materials. The tool is non-consumable and rotates while rubbing against different pieces of materials which causes the frictional heat to soften the materials and the rotation of the tool mixes the materials resulting in joining or welding when cooled. It is a high strain rate complex deformation process and in the study the process was studied as a CFD phenomenon to predict heat generation and temperature distribution with high viscosity fluid as a function of strain rate. The viscosity of the fluid around the tool was low due to high strain rate and helps in visualization of material mixing. The results obtained by the simulation were experimentally validated from the temperature data obtained from the thermocouple. 
-&lt;br /&gt;
-&lt;br /&gt;
-Outcomes of the project:
-&lt;br /&gt;
- &lt;ul&gt;
-  &lt;li&gt;Successfully modelled friction stir welding with 95% accuracy compared to experimental temperature results&lt;/li&gt;
-  &lt;li&gt;The work was selected to be presented at IDETC/CIE conference as a part of “Innovative Design Simulation Challenge” organized by ASME and was awarded $3500 in the category “Best Utility in Commercial Category”
-&lt;/li&gt;
-&lt;/ul&gt; 
-&lt;br /&gt;
-&lt;br /&gt;
-
-&lt;b&gt;Project Images:&lt;/b&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;div class=&quot;row&quot;&gt;
-&lt;div class=&quot;col-md-6 col-md-offset-3&quot;&gt;
-
-&lt;img src=&quot;img/portfolio/fsw/1.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;FSW Image 1&quot; /&gt;
-&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 1. &lt;/b&gt;Experimental setup on 2-ton NC controlled FSW machine&lt;/p&gt;
-
-&lt;img src=&quot;img/portfolio/fsw/2.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;FSW Image 2&quot; /&gt;
-&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 2. &lt;/b&gt;Geometric model of workpiece and boundary conditions&lt;/p&gt;
-
-&lt;img src=&quot;img/portfolio/fsw/3.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;FSW Image 3&quot; /&gt;
-&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 3. &lt;/b&gt;Numerical results for temperature distribution for 1200 rpm&lt;/p&gt;
-
-&lt;img src=&quot;img/portfolio/fsw/4.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;FSW Image 4&quot; /&gt;
-&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 4. &lt;/b&gt;Shoulder and Pin bottom heat flux distribution&lt;/p&gt;
-
-&lt;img src=&quot;img/portfolio/fsw/5.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;FSW Image 5&quot; /&gt;
-&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 5. &lt;/b&gt;Velocity distribution perpendicular to welding direction&lt;/p&gt;
-
-&lt;img src=&quot;img/portfolio/fsw/6.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;FSW Image 6&quot; /&gt;
-&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt; &lt;b&gt; Fig 6. &lt;/b&gt;Strain rate distribution for various rotational speed at 60 mm/min (a) 900 rpm (b) 1200 rpm (c) 1500 rpm &lt;/p&gt;
-
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Wed, 09 Jul 2014 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/web%20development/2014/07/09/fsw/</link>
-        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/09/fsw/</guid>
-        
-        
-        <category>Web Development</category>
-        
-      </item>
-    
-      <item>
-        <title>Surveillance using Quadcopter</title>
-        <description>&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-&lt;div style=&quot;text-align: justify&quot;&gt;
-&lt;b&gt;Students Incharge :&lt;/b&gt; Himal Agrawal, Nieves Brunet, Joseph Yanos
-&lt;br /&gt;
-&lt;b&gt;Project Supervisor :&lt;/b&gt; Prof. Vijay Raghunathan
-&lt;br /&gt;
-&lt;br /&gt;
-
-
-
-&lt;b&gt;Project Details :&lt;/b&gt;  The purpose of the class project was to develop a remotely controlled aerial vehicle to perform facial recognition. The prototype developed was fully functional and used a transmitter to relay live video feed on laptop which is used to perform facial recognition in real time. 
-&lt;br /&gt;
-&lt;br /&gt;
-The first step included was to design the quadcopter and select the required electronic components. A custom frame was manufactured by designing in CATIA followed by carbon fiber prepreg layup and oven curing and finally cutting the required geometry using a waterjet. After performing required background research on quadcopters and available technology EMAX 2300 KV motors, BLHeli 32 bit electronic speed controllers (ESC), Naze32 flight controller, power distribution board, battery, transmitter and camera were chosen. This required analysis of the total weight of the quadcopter to ensure the thrust provided by the motors would be sufficient. Additionally, the power draw of the motors was considered to ensure the battery could support a long enough flight time.
-&lt;br /&gt;
-&lt;br /&gt;
-The components were integrated together with correct wiring and attached with the frame. The microcontroller which acts like a brain for the quadcopter was configured to calibrate the motor, configure the transmitter settings and PID tuning. In parallel to creating the quadcopter, the code for facial recognition was developed using the open source resources like openCV. The code was put together to analyze a live video feed and perform facial recognition. From a set of still photos the code was trained to recognize the people for which it was trained. 
-&lt;br /&gt;
-&lt;br /&gt;
-The quadcopter was fully functional and performed facial recognition for required targets. Further efforts are being made to make the quadcopter fully or semi-autonomous along with object detection using Lidar.
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt; Project Videos :&lt;/b&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;div align=&quot;center&quot;&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/2wd8_nUzhJc&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt;Video 1 : &lt;/b&gt;Built quadcopter flight test&lt;/p&gt;
-
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ui3V9E8bmi4&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;p class=&quot;text-muted&quot; align=&quot;center&quot;&gt;&lt;b&gt;Video 2 : &lt;/b&gt;Facial Recognition using Quadcopter&lt;/p&gt;
-
-&lt;/div&gt;
-
-
-
-
-&lt;/div&gt;
-</description>
-        <pubDate>Tue, 08 Jul 2014 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/web%20development/2014/07/08/quad/</link>
-        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/08/quad/</guid>
         
         
         <category>Web Development</category>

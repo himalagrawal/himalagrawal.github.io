@@ -3,10 +3,10 @@ title: Implementing Cruise Control
 heading: Implementing the cruise control algorithm on a model engine
 subtitle: Electronics
 layout: default
-modal-id: 12
+modal-id: 11
 date: 2014-07-7
-img: cruise.jpg
-thumbnail: cruise-thumbnail.jpg
+img: cruise/cruise.jpg
+thumbnail: cruise/cruise-thumbnail.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
@@ -26,7 +26,7 @@ description:
 
 
 
-<b>Project Details :</b>  The project of implementing the cruise control algorithm using PID for a steam engine was done as a part of the course Microprocessors in electro-mechanical systems. The class objectives were to develop detailed understanding in the areas mentioned below with lab experiments for practical implementation. 
+<b>Project Details :</b>  The project of implementing the cruise control algorithm using PID for a steam engine was done as a part of the course Microprocessors in electro-mechanical systems. The class objectives were to develop detailed understanding in the areas mentioned below with lab experiments for practical implementation.
 <br>
 <br>
  <ul>
@@ -48,7 +48,7 @@ description:
   <li>Peripherals (Timers, DMA, I^2C, GPIO)</li>
   <li>Types of stepper motors and its programming</li>
   <li>Optical encoders</li>
-</ul> 
+</ul>
 <br>
 The final project of the course included implementing the PID cruise control algorithm using all the knowledge from the course material and lab experiments on a model steam engine. The tasks included writing a PID algorithm in an interrupt and running the interrupt at a given frequency to implement the algorithm on the engine. The PI controller values were found by system characterization for a given damping ratio and settling time.  The model was also simulated in Simulink to verify and compare the system response. The controller was then implemented on the STM32 microcontroller for the digital implementation of the system. The cruise controller performed as expected by maintaining the speed within a required settling time and achieved all project deliverables.
 <br>

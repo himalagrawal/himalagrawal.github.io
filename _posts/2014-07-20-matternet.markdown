@@ -3,16 +3,16 @@ title: Matternet
 heading: Aerospace/Mechanical Engineer at Matternet
 subtitle: Mechanical and Software
 layout: default
-modal-id: 0
+modal-id: 1
 date: 2014-07-20
-img: matternet_main.png
-thumbnail: matternet-thumbnail.png
+img: matternet/matternet_main.png
+thumbnail: matternet/matternet-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
 description:
-permalink: /matternet
+permalink: /matternet/
 
 ---
 
@@ -26,7 +26,7 @@ permalink: /matternet
 Matternet is a Mountain View, CA based startup operating in USA and Switzerland in the field of autonomous drone logistics system. It provides an end-to-end solution integrating the Matternet M2 Drone, the Matternet Station and the Matternet Cloud Platform.
 <br>
 <br>
-My role at Matternet is a combination of hardware design and programming. I am familiar with python and C++ programming languages. A brief summary of my work is as follows.
+My role at Matternet is a combination of hardware design and programming. I am familiar with python programming language. A brief summary of my work is as follows.
 <ul>
   <li>Developed a test for measuring motor vibration and imbalance using accelerometer, loadcell and analyzing data using Fourier transform in python</li>
   <li>Analyzed and compared NI load cell data acquisition systems and led the final procurement of the data acquisition system</li>
@@ -63,4 +63,3 @@ Other apps for testing the parachute deployment system and full vehicle test bef
 
 </div>
 </div>
-

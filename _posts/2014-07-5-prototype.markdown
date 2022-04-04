@@ -3,10 +3,10 @@ title: Prototyping
 heading: Mold making using CNC machining
 subtitle:
 layout: default
-modal-id: 14
+modal-id: 13
 date: 2014-07-5
 img: white.png
-thumbnail: prototype-thumbnail.png
+thumbnail: prototype/prototype-thumbnail.png
 alt: Brief Summary
 project-date: April 2014
 client: Start Bootstrap

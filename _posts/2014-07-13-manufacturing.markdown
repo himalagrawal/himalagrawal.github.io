@@ -3,15 +3,15 @@ title: Manufacturing of Composites
 heading: Manufacturing of Composites
 subtitle: Mechanical Design
 layout: default
-modal-id: 6
+modal-id: 5
 date: 2014-07-13
-img: manufacturing.png
-thumbnail: manufacturing-thumbnail.png
+img: manufacturing/manufacturing.png
+thumbnail: manufacturing/manufacturing-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: 
+description:
 
 ---
 
@@ -32,7 +32,7 @@ description:
   <li>Thermal residual stresses and deformation</li>
   <li>Percolation and transverse squeeze flow</li>
   <li>Compression molding</li>
-</ul> 
+</ul>
 
 
 <br>

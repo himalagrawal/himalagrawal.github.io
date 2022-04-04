@@ -1,0 +1,83 @@
+I"<div style="text-align: justify">
+
+<div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/COxbp3kMZXw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<p class="text-muted" align="center"><b>FPV flying a custom made quadcopter</b></p>
+
+</div>
+
+Custom built an autonomous and FPV flying drone using off the shelf components. The aim of the project was to successfully fly drone using GPS waypoint navigation autonomously and have some fun flying FPV as well. The project gave experience working with Ardupilot, electronic debugging of components, software understanding of flight control software, data analysis and processing using mavExplorer and mavProxy.
+
+<br />
+<br />
+
+The main components used were cube orange for flight controller, dshot 1200 ESC's, 2300 KV racing motors along with video, audio transmitter and receiver.
+
+<br />
+<br />
+<br />
+<br />
+<center><h3>Custom Built Laser Engraver</h3></center>
+
+<br />
+<br />
+
+<div style="text-align: justify">
+
+<div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VrkiQXkrr5c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<p class="text-muted" align="center"><b>Custom made laser engraver engraving eagle on coaster</b></p>
+
+</div>
+
+<div class="row">
+<div class="col-md-6 col-md-offset-3">
+<img src="img/portfolio/personal_projects/1.jpeg" class="img-responsive img-centered" alt="Personal project Image 1" />
+<p class="text-muted" align="center"> <b> Images engraved on coasters using laser engraver</b></p>
+</div>
+</div>
+
+
+The purpose of the project was to get familiar with stepper motor and driver and eventually make a laser engraver. The individual parts were designed and 3D printed and then assembled together to achieve the required functionality. A laser assembly was also designed, manufactured and a transistor assembly was used to switch on/off the laser using the control signal from the arduino. The project helped understand working of stepper motor, drivers and generating machine code to achieve required in-plane motion. The engraved images on the coasters turned out to be better than expected.
+
+<br />
+<br />
+<br />
+<br />
+
+<center><h3>Self stabilizing platform using Arduino and MPU6050</h3></center>
+<br />
+<br />
+<div class="row">
+<div class="col-md-6 col-md-offset-3">
+<img src="img/portfolio/personal_projects/2.jpeg" class="img-responsive img-centered" alt="Personal project Image 2" />
+<p class="text-muted" align="center"> <b> Built self stabilizing gyro platform as camera gimbal</b></p>
+</div>
+</div>
+
+The aim to build a self stabilizing platform was to understand I2C communication implementation between MPU6050 and Arduino. Enhanced understanding of the protocol implementation using wire library and also I2Cdevlib for faster implementation.
+
+<br />
+<br />
+<br />
+<br />
+<center><h3>Selected 3D printed parts</h3></center>
+<br />
+<br />
+
+<div class="row">
+<div class="col-md-6 col-md-offset-3">
+<img src="img/portfolio/personal_projects/3.png" class="img-responsive img-centered" alt="Personal project Image 3" />
+<p class="text-muted" align="center"> <b> Greek Meander Lamp</b></p>
+
+<img src="img/portfolio/personal_projects/4.png" class="img-responsive img-centered" alt="Personal project Image 4" />
+<p class="text-muted" align="center"> <b> Julius Caesar pen stand</b></p>
+
+</div>
+</div>
+
+
+
+</div>
+</div>
+:ET
